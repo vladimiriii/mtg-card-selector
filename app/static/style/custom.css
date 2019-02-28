@@ -1,0 +1,21 @@
+/* Navbar */
+.navbar-brand {
+	font-size: 36px;
+}
+
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+}
+
+.bmc-button {
+	text-transform: none;
+	font-weight: normal;
+}
+
+/* Body */
+h2 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}

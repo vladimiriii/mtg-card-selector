@@ -1,0 +1,1430 @@
+id,name,set,set_name,mana_cost,colors,type,super_type,rarity
+435152,Adanto Vanguard,XLN,Ixalan,{1}{W},['White'],Creature — Vampire Soldier,,Uncommon
+435153,Ashes of the Abhorrent,XLN,Ixalan,{1}{W},['White'],Enchantment,,Rare
+435154,Axis of Mortality,XLN,Ixalan,{4}{W}{W},['White'],Enchantment,,Mythic Rare
+435155,Bellowing Aegisaur,XLN,Ixalan,{5}{W},['White'],Creature — Dinosaur,,Uncommon
+435156,Bishop of Rebirth,XLN,Ixalan,{3}{W}{W},['White'],Creature — Vampire Cleric,,Rare
+435157,Bishop's Soldier,XLN,Ixalan,{1}{W},['White'],Creature — Vampire Soldier,,Common
+435158,Bright Reprisal,XLN,Ixalan,{4}{W},['White'],Instant,,Uncommon
+435159,Demystify,XLN,Ixalan,{W},['White'],Instant,,Common
+435160,Duskborne Skymarcher,XLN,Ixalan,{W},['White'],Creature — Vampire Cleric,,Uncommon
+435161,Emissary of Sunrise,XLN,Ixalan,{2}{W},['White'],Creature — Human Cleric,,Uncommon
+435162,Encampment Keeper,XLN,Ixalan,{W},['White'],Creature — Hound,,Common
+435163,Glorifier of Dusk,XLN,Ixalan,{3}{W}{W},['White'],Creature — Vampire Soldier,,Uncommon
+435164,Goring Ceratops,XLN,Ixalan,{5}{W}{W},['White'],Creature — Dinosaur,,Rare
+435165,Imperial Aerosaur,XLN,Ixalan,{3}{W},['White'],Creature — Dinosaur,,Uncommon
+435166,Imperial Lancer,XLN,Ixalan,{W},['White'],Creature — Human Knight,,Uncommon
+435167,Inspiring Cleric,XLN,Ixalan,{2}{W},['White'],Creature — Vampire Cleric,,Uncommon
+435168,Ixalan's Binding,XLN,Ixalan,{3}{W},['White'],Enchantment,,Uncommon
+435169,Kinjalli's Caller,XLN,Ixalan,{W},['White'],Creature — Human Cleric,,Common
+435170,Kinjalli's Sunwing,XLN,Ixalan,{2}{W},['White'],Creature — Dinosaur,,Rare
+435171,Legion Conquistador,XLN,Ixalan,{2}{W},['White'],Creature — Vampire Soldier,,Common
+435172,Legion's Judgment,XLN,Ixalan,{2}{W},['White'],Sorcery,,Common
+435173,Legion's Landing,XLN,Ixalan,{W},['White'],Legendary Enchantment,['Legendary'],Rare
+435174,"Adanto, the First Fort",XLN,Ixalan,,,Legendary Land,['Legendary'],Rare
+435175,Looming Altisaur,XLN,Ixalan,{3}{W},['White'],Creature — Dinosaur,,Common
+435176,"Mavren Fein, Dusk Apostle",XLN,Ixalan,{2}{W},['White'],Legendary Creature — Vampire Cleric,['Legendary'],Rare
+435177,Paladin of the Bloodstained,XLN,Ixalan,{3}{W},['White'],Creature — Vampire Knight,,Common
+435178,Pious Interdiction,XLN,Ixalan,{3}{W},['White'],Enchantment — Aura,,Common
+435179,Priest of the Wakening Sun,XLN,Ixalan,{W},['White'],Creature — Human Cleric,,Rare
+435180,Pterodon Knight,XLN,Ixalan,{3}{W},['White'],Creature — Human Knight,,Common
+435181,Queen's Commission,XLN,Ixalan,{2}{W},['White'],Sorcery,,Common
+435182,Rallying Roar,XLN,Ixalan,{2}{W},['White'],Instant,,Uncommon
+435183,Raptor Companion,XLN,Ixalan,{1}{W},['White'],Creature — Dinosaur,,Common
+435184,Ritual of Rejuvenation,XLN,Ixalan,{2}{W},['White'],Instant,,Common
+435185,Sanguine Sacrament,XLN,Ixalan,{X}{W}{W},['White'],Instant,,Rare
+435186,Settle the Wreckage,XLN,Ixalan,{2}{W}{W},['White'],Instant,,Rare
+435187,Sheltering Light,XLN,Ixalan,{W},['White'],Instant,,Uncommon
+435188,Shining Aerosaur,XLN,Ixalan,{4}{W},['White'],Creature — Dinosaur,,Common
+435189,Skyblade of the Legion,XLN,Ixalan,{1}{W},['White'],Creature — Vampire Soldier,,Common
+435190,Slash of Talons,XLN,Ixalan,{W},['White'],Instant,,Common
+435191,Steadfast Armasaur,XLN,Ixalan,{3}{W},['White'],Creature — Dinosaur,,Uncommon
+435192,Sunrise Seeker,XLN,Ixalan,{4}{W},['White'],Creature — Human Scout,,Common
+435193,Territorial Hammerskull,XLN,Ixalan,{2}{W},['White'],Creature — Dinosaur,,Common
+435194,Tocatli Honor Guard,XLN,Ixalan,{1}{W},['White'],Creature — Human Soldier,,Rare
+435195,Vampire's Zeal,XLN,Ixalan,{W},['White'],Instant,,Common
+435196,Wakening Sun's Avatar,XLN,Ixalan,{5}{W}{W}{W},['White'],Creature — Dinosaur Avatar,,Mythic Rare
+435197,Air Elemental,XLN,Ixalan,{3}{U}{U},['Blue'],Creature — Elemental,,Uncommon
+435198,Arcane Adaptation,XLN,Ixalan,{2}{U},['Blue'],Enchantment,,Rare
+435199,Cancel,XLN,Ixalan,{1}{U}{U},['Blue'],Instant,,Common
+435200,Chart a Course,XLN,Ixalan,{1}{U},['Blue'],Sorcery,,Uncommon
+435201,Daring Saboteur,XLN,Ixalan,{1}{U},['Blue'],Creature — Human Pirate,,Rare
+435202,Deadeye Quartermaster,XLN,Ixalan,{3}{U},['Blue'],Creature — Human Pirate,,Uncommon
+435203,Deeproot Waters,XLN,Ixalan,{2}{U},['Blue'],Enchantment,,Uncommon
+435204,Depths of Desire,XLN,Ixalan,{2}{U},['Blue'],Instant,,Common
+435205,Dive Down,XLN,Ixalan,{U},['Blue'],Instant,,Common
+435206,Dreamcaller Siren,XLN,Ixalan,{2}{U}{U},['Blue'],Creature — Siren Pirate,,Rare
+435207,Entrancing Melody,XLN,Ixalan,{X}{U}{U},['Blue'],Sorcery,,Rare
+435208,Favorable Winds,XLN,Ixalan,{1}{U},['Blue'],Enchantment,,Uncommon
+435209,Fleet Swallower,XLN,Ixalan,{5}{U}{U},['Blue'],Creature — Fish,,Rare
+435210,Headwater Sentries,XLN,Ixalan,{3}{U},['Blue'],Creature — Merfolk Warrior,,Common
+435211,Herald of Secret Streams,XLN,Ixalan,{3}{U},['Blue'],Creature — Merfolk Warrior,,Rare
+435212,"Jace, Cunning Castaway",XLN,Ixalan,{1}{U}{U},['Blue'],Legendary Planeswalker — Jace,['Legendary'],Mythic Rare
+435213,"Kopala, Warden of Waves",XLN,Ixalan,{1}{U}{U},['Blue'],Legendary Creature — Merfolk Wizard,['Legendary'],Rare
+435214,Lookout's Dispersal,XLN,Ixalan,{2}{U},['Blue'],Instant,,Uncommon
+435215,Navigator's Ruin,XLN,Ixalan,{2}{U},['Blue'],Enchantment,,Uncommon
+435216,One With the Wind,XLN,Ixalan,{1}{U},['Blue'],Enchantment — Aura,,Common
+435217,Opt,XLN,Ixalan,{U},['Blue'],Instant,,Common
+435218,Overflowing Insight,XLN,Ixalan,{4}{U}{U}{U},['Blue'],Sorcery,,Mythic Rare
+435219,Perilous Voyage,XLN,Ixalan,{1}{U},['Blue'],Instant,,Uncommon
+435220,Pirate's Prize,XLN,Ixalan,{3}{U},['Blue'],Sorcery,,Common
+435221,Prosperous Pirates,XLN,Ixalan,{4}{U},['Blue'],Creature — Human Pirate,,Common
+435222,River Sneak,XLN,Ixalan,{1}{U},['Blue'],Creature — Merfolk Warrior,,Uncommon
+435223,River's Rebuke,XLN,Ixalan,{4}{U}{U},['Blue'],Sorcery,,Rare
+435224,Run Aground,XLN,Ixalan,{3}{U},['Blue'],Instant,,Common
+435225,Sailor of Means,XLN,Ixalan,{2}{U},['Blue'],Creature — Human Pirate,,Common
+435226,Search for Azcanta,XLN,Ixalan,{1}{U},['Blue'],Legendary Enchantment,['Legendary'],Rare
+435227,"Azcanta, the Sunken Ruin",XLN,Ixalan,,,Legendary Land,['Legendary'],Rare
+435228,Shaper Apprentice,XLN,Ixalan,{1}{U},['Blue'],Creature — Merfolk Wizard,,Common
+435229,Shipwreck Looter,XLN,Ixalan,{1}{U},['Blue'],Creature — Human Pirate,,Common
+435230,Shore Keeper,XLN,Ixalan,{U},['Blue'],Creature — Trilobite,,Common
+435231,Siren Lookout,XLN,Ixalan,{2}{U},['Blue'],Creature — Siren Pirate,,Common
+435232,Siren Stormtamer,XLN,Ixalan,{U},['Blue'],Creature — Siren Pirate Wizard,,Uncommon
+435233,Siren's Ruse,XLN,Ixalan,{1}{U},['Blue'],Instant,,Common
+435234,Spell Pierce,XLN,Ixalan,{U},['Blue'],Instant,,Common
+435235,Spell Swindle,XLN,Ixalan,{3}{U}{U},['Blue'],Instant,,Rare
+435236,Storm Fleet Aerialist,XLN,Ixalan,{1}{U},['Blue'],Creature — Human Pirate,,Uncommon
+435237,Storm Fleet Spy,XLN,Ixalan,{2}{U},['Blue'],Creature — Human Pirate,,Uncommon
+435238,Storm Sculptor,XLN,Ixalan,{3}{U},['Blue'],Creature — Merfolk Wizard,,Common
+435239,Tempest Caller,XLN,Ixalan,{2}{U}{U},['Blue'],Creature — Merfolk Wizard,,Uncommon
+435240,Watertrap Weaver,XLN,Ixalan,{2}{U},['Blue'],Creature — Merfolk Wizard,,Common
+435241,Wind Strider,XLN,Ixalan,{4}{U},['Blue'],Creature — Merfolk Wizard,,Common
+435242,Anointed Deacon,XLN,Ixalan,{4}{B},['Black'],Creature — Vampire Cleric,,Common
+435243,Arguel's Blood Fast,XLN,Ixalan,{1}{B},['Black'],Legendary Enchantment,['Legendary'],Rare
+435244,Temple of Aclazotz,XLN,Ixalan,,,Legendary Land,['Legendary'],Rare
+435245,Bishop of the Bloodstained,XLN,Ixalan,{3}{B}{B},['Black'],Creature — Vampire Cleric,,Uncommon
+435246,Blight Keeper,XLN,Ixalan,{B},['Black'],Creature — Bat Imp,,Common
+435247,Bloodcrazed Paladin,XLN,Ixalan,{1}{B},['Black'],Creature — Vampire Knight,,Rare
+435248,Boneyard Parley,XLN,Ixalan,{5}{B}{B},['Black'],Sorcery,,Mythic Rare
+435249,Contract Killing,XLN,Ixalan,{3}{B}{B},['Black'],Sorcery,,Common
+435250,Costly Plunder,XLN,Ixalan,{1}{B},['Black'],Instant,,Common
+435251,Dark Nourishment,XLN,Ixalan,{4}{B},['Black'],Instant,,Uncommon
+435252,Deadeye Tormentor,XLN,Ixalan,{2}{B},['Black'],Creature — Human Pirate,,Common
+435253,Deadeye Tracker,XLN,Ixalan,{B},['Black'],Creature — Human Pirate,,Rare
+435254,Deathless Ancient,XLN,Ixalan,{4}{B}{B},['Black'],Creature — Vampire Knight,,Uncommon
+435255,Desperate Castaways,XLN,Ixalan,{1}{B},['Black'],Creature — Human Pirate,,Common
+435256,Dire Fleet Hoarder,XLN,Ixalan,{1}{B},['Black'],Creature — Human Pirate,,Common
+435257,Dire Fleet Interloper,XLN,Ixalan,{3}{B},['Black'],Creature — Human Pirate,,Common
+435258,Dire Fleet Ravager,XLN,Ixalan,{3}{B}{B},['Black'],Creature — Orc Pirate Wizard,,Mythic Rare
+435259,Duress,XLN,Ixalan,{B},['Black'],Sorcery,,Common
+435260,Fathom Fleet Captain,XLN,Ixalan,{1}{B},['Black'],Creature — Human Pirate,,Rare
+435261,Fathom Fleet Cutthroat,XLN,Ixalan,{3}{B},['Black'],Creature — Human Pirate,,Common
+435262,Grim Captain's Call,XLN,Ixalan,{2}{B},['Black'],Sorcery,,Uncommon
+435263,Heartless Pillage,XLN,Ixalan,{2}{B},['Black'],Sorcery,,Uncommon
+435264,Kitesail Freebooter,XLN,Ixalan,{1}{B},['Black'],Creature — Human Pirate,,Uncommon
+435265,Lurking Chupacabra,XLN,Ixalan,{3}{B},['Black'],Creature — Beast Horror,,Uncommon
+435266,March of the Drowned,XLN,Ixalan,{B},['Black'],Sorcery,,Common
+435267,Mark of the Vampire,XLN,Ixalan,{3}{B},['Black'],Enchantment — Aura,,Common
+435268,Queen's Agent,XLN,Ixalan,{5}{B},['Black'],Creature — Vampire Scout,,Common
+435269,Queen's Bay Soldier,XLN,Ixalan,{1}{B},['Black'],Creature — Vampire Soldier,,Common
+435270,Raiders' Wake,XLN,Ixalan,{3}{B},['Black'],Enchantment,,Uncommon
+435271,Revel in Riches,XLN,Ixalan,{4}{B},['Black'],Enchantment,,Rare
+435272,Ruin Raider,XLN,Ixalan,{2}{B},['Black'],Creature — Orc Pirate,,Rare
+435273,Ruthless Knave,XLN,Ixalan,{2}{B},['Black'],Creature — Orc Pirate,,Uncommon
+435274,Sanctum Seeker,XLN,Ixalan,{2}{B}{B},['Black'],Creature — Vampire Knight,,Rare
+435275,Seekers' Squire,XLN,Ixalan,{1}{B},['Black'],Creature — Human Scout,,Uncommon
+435276,Skittering Heartstopper,XLN,Ixalan,{B},['Black'],Creature — Insect,,Common
+435277,Skulduggery,XLN,Ixalan,{B},['Black'],Instant,,Common
+435278,Skymarch Bloodletter,XLN,Ixalan,{2}{B},['Black'],Creature — Vampire Soldier,,Common
+435279,Spreading Rot,XLN,Ixalan,{4}{B},['Black'],Sorcery,,Common
+435280,Sword-Point Diplomacy,XLN,Ixalan,{2}{B},['Black'],Sorcery,,Rare
+435281,Vanquish the Weak,XLN,Ixalan,{2}{B},['Black'],Instant,,Common
+435282,Vicious Conquistador,XLN,Ixalan,{B},['Black'],Creature — Vampire Soldier,,Uncommon
+435283,Vraska's Contempt,XLN,Ixalan,{2}{B}{B},['Black'],Instant,,Rare
+435284,Walk the Plank,XLN,Ixalan,{B}{B},['Black'],Sorcery,,Uncommon
+435285,Wanted Scoundrels,XLN,Ixalan,{1}{B},['Black'],Creature — Human Pirate,,Uncommon
+435286,Angrath's Marauders,XLN,Ixalan,{5}{R}{R},['Red'],Creature — Human Pirate,,Rare
+435287,Bonded Horncrest,XLN,Ixalan,{3}{R},['Red'],Creature — Dinosaur,,Uncommon
+435288,Brazen Buccaneers,XLN,Ixalan,{3}{R},['Red'],Creature — Human Pirate,,Common
+435289,Burning Sun's Avatar,XLN,Ixalan,{3}{R}{R}{R},['Red'],Creature — Dinosaur Avatar,,Rare
+435290,Captain Lannery Storm,XLN,Ixalan,{2}{R},['Red'],Legendary Creature — Human Pirate,['Legendary'],Rare
+435291,Captivating Crew,XLN,Ixalan,{3}{R},['Red'],Creature — Human Pirate,,Rare
+435292,Charging Monstrosaur,XLN,Ixalan,{4}{R},['Red'],Creature — Dinosaur,,Uncommon
+435293,Demolish,XLN,Ixalan,{3}{R},['Red'],Sorcery,,Common
+435294,Dinosaur Stampede,XLN,Ixalan,{2}{R},['Red'],Instant,,Uncommon
+435295,Dual Shot,XLN,Ixalan,{R},['Red'],Instant,,Common
+435296,Fathom Fleet Firebrand,XLN,Ixalan,{1}{R},['Red'],Creature — Human Pirate,,Common
+435297,Fiery Cannonade,XLN,Ixalan,{2}{R},['Red'],Instant,,Uncommon
+435298,Fire Shrine Keeper,XLN,Ixalan,{R},['Red'],Creature — Elemental,,Common
+435299,Firecannon Blast,XLN,Ixalan,{1}{R}{R},['Red'],Sorcery,,Common
+435300,Frenzied Raptor,XLN,Ixalan,{2}{R},['Red'],Creature — Dinosaur,,Common
+435301,Headstrong Brute,XLN,Ixalan,{2}{R},['Red'],Creature — Orc Pirate,,Common
+435302,Hijack,XLN,Ixalan,{1}{R}{R},['Red'],Sorcery,,Common
+435303,Lightning Strike,XLN,Ixalan,{1}{R},['Red'],Instant,,Uncommon
+435304,Lightning-Rig Crew,XLN,Ixalan,{2}{R},['Red'],Creature — Goblin Pirate,,Uncommon
+435305,Makeshift Munitions,XLN,Ixalan,{1}{R},['Red'],Enchantment,,Uncommon
+435306,Nest Robber,XLN,Ixalan,{1}{R},['Red'],Creature — Dinosaur,,Common
+435307,Otepec Huntmaster,XLN,Ixalan,{1}{R},['Red'],Creature — Human Shaman,,Uncommon
+435308,Rampaging Ferocidon,XLN,Ixalan,{2}{R},['Red'],Creature — Dinosaur,,Rare
+435309,Raptor Hatchling,XLN,Ixalan,{1}{R},['Red'],Creature — Dinosaur,,Uncommon
+435310,Repeating Barrage,XLN,Ixalan,{1}{R}{R},['Red'],Sorcery,,Rare
+435311,Rigging Runner,XLN,Ixalan,{R},['Red'],Creature — Goblin Pirate,,Uncommon
+435312,Rile,XLN,Ixalan,{R},['Red'],Sorcery,,Common
+435313,Rowdy Crew,XLN,Ixalan,{2}{R}{R},['Red'],Creature — Human Pirate,,Mythic Rare
+435314,Rummaging Goblin,XLN,Ixalan,{2}{R},['Red'],Creature — Goblin Rogue,,Common
+435315,Star of Extinction,XLN,Ixalan,{5}{R}{R},['Red'],Sorcery,,Mythic Rare
+435316,Storm Fleet Arsonist,XLN,Ixalan,{4}{R},['Red'],Creature — Orc Pirate,,Uncommon
+435317,Storm Fleet Pyromancer,XLN,Ixalan,{4}{R},['Red'],Creature — Human Pirate Wizard,,Common
+435318,Sun-Crowned Hunters,XLN,Ixalan,{4}{R}{R},['Red'],Creature — Dinosaur,,Common
+435319,Sunbird's Invocation,XLN,Ixalan,{5}{R},['Red'],Enchantment,,Rare
+435320,Sure Strike,XLN,Ixalan,{1}{R},['Red'],Instant,,Common
+435321,Swashbuckling,XLN,Ixalan,{1}{R},['Red'],Enchantment — Aura,,Common
+435322,Thrash of Raptors,XLN,Ixalan,{3}{R},['Red'],Creature — Dinosaur,,Common
+435323,Tilonalli's Knight,XLN,Ixalan,{1}{R},['Red'],Creature — Human Knight,,Common
+435324,Tilonalli's Skinshifter,XLN,Ixalan,{2}{R},['Red'],Creature — Human Shaman,,Rare
+435325,Trove of Temptation,XLN,Ixalan,{3}{R},['Red'],Enchantment,,Uncommon
+435326,Unfriendly Fire,XLN,Ixalan,{4}{R},['Red'],Instant,,Common
+435327,Vance's Blasting Cannons,XLN,Ixalan,{3}{R},['Red'],Legendary Enchantment,['Legendary'],Rare
+435328,Spitfire Bastion,XLN,Ixalan,,,Legendary Land,['Legendary'],Rare
+435329,Wily Goblin,XLN,Ixalan,{R}{R},['Red'],Creature — Goblin Pirate,,Uncommon
+435330,Ancient Brontodon,XLN,Ixalan,{6}{G}{G},['Green'],Creature — Dinosaur,,Common
+435331,Atzocan Archer,XLN,Ixalan,{2}{G},['Green'],Creature — Human Archer,,Uncommon
+435332,Blinding Fog,XLN,Ixalan,{2}{G},['Green'],Instant,,Common
+435333,Blossom Dryad,XLN,Ixalan,{2}{G},['Green'],Creature — Dryad,,Common
+435334,Carnage Tyrant,XLN,Ixalan,{4}{G}{G},['Green'],Creature — Dinosaur,,Mythic Rare
+435335,Colossal Dreadmaw,XLN,Ixalan,{4}{G}{G},['Green'],Creature — Dinosaur,,Common
+435336,Commune with Dinosaurs,XLN,Ixalan,{G},['Green'],Sorcery,,Common
+435337,Crash the Ramparts,XLN,Ixalan,{2}{G},['Green'],Instant,,Common
+435338,Crushing Canopy,XLN,Ixalan,{2}{G},['Green'],Instant,,Common
+435339,Deathgorge Scavenger,XLN,Ixalan,{2}{G},['Green'],Creature — Dinosaur,,Rare
+435340,Deeproot Champion,XLN,Ixalan,{1}{G},['Green'],Creature — Merfolk Shaman,,Rare
+435341,Deeproot Warrior,XLN,Ixalan,{1}{G},['Green'],Creature — Merfolk Warrior,,Common
+435342,Drover of the Mighty,XLN,Ixalan,{1}{G},['Green'],Creature — Human Druid,,Uncommon
+435343,Emergent Growth,XLN,Ixalan,{3}{G},['Green'],Sorcery,,Uncommon
+435344,Emperor's Vanguard,XLN,Ixalan,{3}{G},['Green'],Creature — Human Scout,,Rare
+435345,Grazing Whiptail,XLN,Ixalan,{2}{G}{G},['Green'],Creature — Dinosaur,,Common
+435346,Growing Rites of Itlimoc,XLN,Ixalan,{2}{G},['Green'],Legendary Enchantment,['Legendary'],Rare
+435347,"Itlimoc, Cradle of the Sun",XLN,Ixalan,,,Legendary Land,['Legendary'],Rare
+435348,Ixalli's Diviner,XLN,Ixalan,{1}{G},['Green'],Creature — Human Druid,,Common
+435349,Ixalli's Keeper,XLN,Ixalan,{1}{G},['Green'],Creature — Human Shaman,,Common
+435350,Jade Guardian,XLN,Ixalan,{3}{G},['Green'],Creature — Merfolk Shaman,,Common
+435351,Jungle Delver,XLN,Ixalan,{G},['Green'],Creature — Merfolk Warrior,,Common
+435352,Kumena's Speaker,XLN,Ixalan,{G},['Green'],Creature — Merfolk Shaman,,Uncommon
+435353,Merfolk Branchwalker,XLN,Ixalan,{1}{G},['Green'],Creature — Merfolk Scout,,Uncommon
+435354,New Horizons,XLN,Ixalan,{2}{G},['Green'],Enchantment — Aura,,Common
+435355,Old-Growth Dryads,XLN,Ixalan,{G},['Green'],Creature — Dryad,,Rare
+435356,Pounce,XLN,Ixalan,{1}{G},['Green'],Instant,,Common
+435357,Ranging Raptors,XLN,Ixalan,{2}{G},['Green'],Creature — Dinosaur,,Uncommon
+435358,Ravenous Daggertooth,XLN,Ixalan,{2}{G},['Green'],Creature — Dinosaur,,Common
+435359,Ripjaw Raptor,XLN,Ixalan,{2}{G}{G},['Green'],Creature — Dinosaur,,Rare
+435360,River Heralds' Boon,XLN,Ixalan,{1}{G},['Green'],Instant,,Common
+435361,Savage Stomp,XLN,Ixalan,{2}{G},['Green'],Sorcery,,Uncommon
+435362,Shapers' Sanctuary,XLN,Ixalan,{G},['Green'],Enchantment,,Rare
+435363,Slice in Twain,XLN,Ixalan,{2}{G}{G},['Green'],Instant,,Uncommon
+435364,Snapping Sailback,XLN,Ixalan,{4}{G},['Green'],Creature — Dinosaur,,Uncommon
+435365,Spike-Tailed Ceratops,XLN,Ixalan,{4}{G},['Green'],Creature — Dinosaur,,Common
+435366,Thundering Spineback,XLN,Ixalan,{5}{G}{G},['Green'],Creature — Dinosaur,,Uncommon
+435367,Tishana's Wayfinder,XLN,Ixalan,{2}{G},['Green'],Creature — Merfolk Scout,,Common
+435368,Verdant Rebirth,XLN,Ixalan,{1}{G},['Green'],Instant,,Uncommon
+435369,Verdant Sun's Avatar,XLN,Ixalan,{5}{G}{G},['Green'],Creature — Dinosaur Avatar,,Rare
+435370,Vineshaper Mystic,XLN,Ixalan,{2}{G},['Green'],Creature — Merfolk Shaman,,Uncommon
+435371,Waker of the Wilds,XLN,Ixalan,{2}{G}{G},['Green'],Creature — Merfolk Shaman,,Rare
+435372,Wildgrowth Walker,XLN,Ixalan,{1}{G},['Green'],Creature — Elemental,,Uncommon
+435373,Admiral Beckett Brass,XLN,Ixalan,{1}{U}{B}{R},"['Blue', 'Black', 'Red']",Legendary Creature — Human Pirate,['Legendary'],Mythic Rare
+435374,Belligerent Brontodon,XLN,Ixalan,{5}{G}{W},"['White', 'Green']",Creature — Dinosaur,,Uncommon
+435375,Call to the Feast,XLN,Ixalan,{2}{W}{B},"['White', 'Black']",Sorcery,,Uncommon
+435376,Deadeye Plunderers,XLN,Ixalan,{3}{U}{B},"['Blue', 'Black']",Creature — Human Pirate,,Uncommon
+435377,Dire Fleet Captain,XLN,Ixalan,{B}{R},"['Black', 'Red']",Creature — Orc Pirate,,Uncommon
+435378,"Gishath, Sun's Avatar",XLN,Ixalan,{5}{R}{G}{W},"['White', 'Red', 'Green']",Legendary Creature — Dinosaur Avatar,['Legendary'],Mythic Rare
+435379,Hostage Taker,XLN,Ixalan,{2}{U}{B},"['Blue', 'Black']",Creature — Human Pirate,,Rare
+435380,"Huatli, Warrior Poet",XLN,Ixalan,{3}{R}{W},"['White', 'Red']",Legendary Planeswalker — Huatli,['Legendary'],Mythic Rare
+435381,Marauding Looter,XLN,Ixalan,{2}{U}{R},"['Blue', 'Red']",Creature — Human Pirate,,Uncommon
+435382,Raging Swordtooth,XLN,Ixalan,{3}{R}{G},"['Red', 'Green']",Creature — Dinosaur,,Uncommon
+435383,Regisaur Alpha,XLN,Ixalan,{3}{R}{G},"['Red', 'Green']",Creature — Dinosaur,,Rare
+435384,Shapers of Nature,XLN,Ixalan,{1}{G}{U},"['Blue', 'Green']",Creature — Merfolk Shaman,,Uncommon
+435385,Sky Terror,XLN,Ixalan,{R}{W},"['White', 'Red']",Creature — Dinosaur,,Uncommon
+435386,"Tishana, Voice of Thunder",XLN,Ixalan,{5}{G}{U},"['Blue', 'Green']",Legendary Creature — Merfolk Shaman,['Legendary'],Mythic Rare
+435387,"Vona, Butcher of Magan",XLN,Ixalan,{3}{W}{B},"['White', 'Black']",Legendary Creature — Vampire Knight,['Legendary'],Mythic Rare
+435388,"Vraska, Relic Seeker",XLN,Ixalan,{4}{B}{G},"['Black', 'Green']",Legendary Planeswalker — Vraska,['Legendary'],Mythic Rare
+435389,Cobbled Wings,XLN,Ixalan,{2},,Artifact — Equipment,,Common
+435390,Conqueror's Galleon,XLN,Ixalan,{4},,Artifact — Vehicle,,Rare
+435391,Conqueror's Foothold,XLN,Ixalan,,,Land,,Rare
+435392,Dowsing Dagger,XLN,Ixalan,{2},,Artifact — Equipment,,Rare
+435393,Lost Vale,XLN,Ixalan,,,Land,,Rare
+435394,Dusk Legion Dreadnought,XLN,Ixalan,{5},,Artifact — Vehicle,,Uncommon
+435395,Elaborate Firecannon,XLN,Ixalan,{2},,Artifact,,Uncommon
+435396,Fell Flagship,XLN,Ixalan,{3},,Artifact — Vehicle,,Rare
+435397,Gilded Sentinel,XLN,Ixalan,{4},,Artifact Creature — Golem,,Common
+435398,Hierophant's Chalice,XLN,Ixalan,{3},,Artifact,,Common
+435399,Pillar of Origins,XLN,Ixalan,{2},,Artifact,,Uncommon
+435400,Pirate's Cutlass,XLN,Ixalan,{3},,Artifact — Equipment,,Common
+435401,Primal Amulet,XLN,Ixalan,{4},,Artifact,,Rare
+435402,Primal Wellspring,XLN,Ixalan,,,Land,,Rare
+435403,Prying Blade,XLN,Ixalan,{1},,Artifact — Equipment,,Common
+435404,Sentinel Totem,XLN,Ixalan,{1},,Artifact,,Uncommon
+435405,Shadowed Caravel,XLN,Ixalan,{2},,Artifact — Vehicle,,Rare
+435406,Sleek Schooner,XLN,Ixalan,{3},,Artifact — Vehicle,,Uncommon
+435407,Sorcerous Spyglass,XLN,Ixalan,{2},,Artifact,,Rare
+435408,Thaumatic Compass,XLN,Ixalan,{2},,Artifact,,Rare
+435409,Spires of Orazca,XLN,Ixalan,,,Land,,Rare
+435410,Treasure Map,XLN,Ixalan,{2},,Artifact,,Rare
+435411,Treasure Cove,XLN,Ixalan,,,Land,,Rare
+435412,Vanquisher's Banner,XLN,Ixalan,{5},,Artifact,,Rare
+435413,Dragonskull Summit,XLN,Ixalan,,,Land,,Rare
+435414,Drowned Catacomb,XLN,Ixalan,,,Land,,Rare
+435415,Field of Ruin,XLN,Ixalan,,,Land,,Uncommon
+435416,Glacial Fortress,XLN,Ixalan,,,Land,,Rare
+435417,Rootbound Crag,XLN,Ixalan,,,Land,,Rare
+435418,Sunpetal Grove,XLN,Ixalan,,,Land,,Rare
+435419,Unclaimed Territory,XLN,Ixalan,,,Land,,Uncommon
+435420,Unknown Shores,XLN,Ixalan,,,Land,,Common
+435421,Plains,XLN,Ixalan,,,Basic Land — Plains,['Basic'],Basic Land
+435422,Plains,XLN,Ixalan,,,Basic Land — Plains,['Basic'],Basic Land
+435423,Plains,XLN,Ixalan,,,Basic Land — Plains,['Basic'],Basic Land
+435424,Plains,XLN,Ixalan,,,Basic Land — Plains,['Basic'],Basic Land
+435425,Island,XLN,Ixalan,,,Basic Land — Island,['Basic'],Basic Land
+435426,Island,XLN,Ixalan,,,Basic Land — Island,['Basic'],Basic Land
+435427,Island,XLN,Ixalan,,,Basic Land — Island,['Basic'],Basic Land
+435428,Island,XLN,Ixalan,,,Basic Land — Island,['Basic'],Basic Land
+435429,Swamp,XLN,Ixalan,,,Basic Land — Swamp,['Basic'],Basic Land
+435430,Swamp,XLN,Ixalan,,,Basic Land — Swamp,['Basic'],Basic Land
+435431,Swamp,XLN,Ixalan,,,Basic Land — Swamp,['Basic'],Basic Land
+435432,Swamp,XLN,Ixalan,,,Basic Land — Swamp,['Basic'],Basic Land
+435433,Mountain,XLN,Ixalan,,,Basic Land — Mountain,['Basic'],Basic Land
+435434,Mountain,XLN,Ixalan,,,Basic Land — Mountain,['Basic'],Basic Land
+435435,Mountain,XLN,Ixalan,,,Basic Land — Mountain,['Basic'],Basic Land
+435436,Mountain,XLN,Ixalan,,,Basic Land — Mountain,['Basic'],Basic Land
+435437,Forest,XLN,Ixalan,,,Basic Land — Forest,['Basic'],Basic Land
+435438,Forest,XLN,Ixalan,,,Basic Land — Forest,['Basic'],Basic Land
+435439,Forest,XLN,Ixalan,,,Basic Land — Forest,['Basic'],Basic Land
+435440,Forest,XLN,Ixalan,,,Basic Land — Forest,['Basic'],Basic Land
+435441,"Jace, Ingenious Mind-Mage",XLN,Ixalan,{4}{U}{U},['Blue'],Legendary Planeswalker — Jace,['Legendary'],Mythic Rare
+435442,Castaway's Despair,XLN,Ixalan,{3}{U},['Blue'],Enchantment — Aura,,Common
+435443,Grasping Current,XLN,Ixalan,{4}{U},['Blue'],Sorcery,,Rare
+435444,Jace's Sentinel,XLN,Ixalan,{1}{U},['Blue'],Creature — Merfolk Warrior,,Uncommon
+435445,Woodland Stream,XLN,Ixalan,,,Land,,Common
+435446,"Huatli, Dinosaur Knight",XLN,Ixalan,{4}{R}{W},"['White', 'Red']",Legendary Planeswalker — Huatli,['Legendary'],Mythic Rare
+435447,Huatli's Snubhorn,XLN,Ixalan,{1}{W},['White'],Creature — Dinosaur,,Common
+435448,Huatli's Spurring,XLN,Ixalan,{R},['Red'],Instant,,Uncommon
+435449,Sun-Blessed Mount,XLN,Ixalan,{3}{R}{W},"['White', 'Red']",Creature — Dinosaur,,Rare
+435450,Stone Quarry,XLN,Ixalan,,,Land,,Common
+439658,Baffling End,RIX,Rivals of Ixalan,{1}{W},['White'],Enchantment,,Uncommon
+439659,Bishop of Binding,RIX,Rivals of Ixalan,{3}{W},['White'],Creature — Vampire Cleric,,Rare
+439660,Blazing Hope,RIX,Rivals of Ixalan,{W},['White'],Instant,,Uncommon
+439661,Cleansing Ray,RIX,Rivals of Ixalan,{1}{W},['White'],Sorcery,,Common
+439662,Divine Verdict,RIX,Rivals of Ixalan,{3}{W},['White'],Instant,,Common
+439663,Everdawn Champion,RIX,Rivals of Ixalan,{1}{W}{W},['White'],Creature — Human Soldier,,Uncommon
+439664,Exultant Skymarcher,RIX,Rivals of Ixalan,{1}{W}{W},['White'],Creature — Vampire Soldier,,Common
+439665,Famished Paladin,RIX,Rivals of Ixalan,{1}{W},['White'],Creature — Vampire Knight,,Uncommon
+439666,Forerunner of the Legion,RIX,Rivals of Ixalan,{2}{W},['White'],Creature — Vampire Knight,,Uncommon
+439667,Imperial Ceratops,RIX,Rivals of Ixalan,{4}{W},['White'],Creature — Dinosaur,,Uncommon
+439668,Legion Conquistador,RIX,Rivals of Ixalan,{2}{W},['White'],Creature — Vampire Soldier,,Common
+439669,Luminous Bonds,RIX,Rivals of Ixalan,{2}{W},['White'],Enchantment — Aura,,Common
+439670,Majestic Heliopterus,RIX,Rivals of Ixalan,{3}{W},['White'],Creature — Dinosaur,,Uncommon
+439671,Martyr of Dusk,RIX,Rivals of Ixalan,{1}{W},['White'],Creature — Vampire Soldier,,Common
+439672,Moment of Triumph,RIX,Rivals of Ixalan,{W},['White'],Instant,,Common
+439673,Paladin of Atonement,RIX,Rivals of Ixalan,{1}{W},['White'],Creature — Vampire Knight,,Rare
+439674,Pride of Conquerors,RIX,Rivals of Ixalan,{1}{W},['White'],Instant,,Uncommon
+439675,Radiant Destiny,RIX,Rivals of Ixalan,{2}{W},['White'],Enchantment,,Rare
+439676,Raptor Companion,RIX,Rivals of Ixalan,{1}{W},['White'],Creature — Dinosaur,,Common
+439677,Sanguine Glorifier,RIX,Rivals of Ixalan,{3}{W},['White'],Creature — Vampire Cleric,,Common
+439678,Skymarcher Aspirant,RIX,Rivals of Ixalan,{W},['White'],Creature — Vampire Soldier,,Uncommon
+439679,Slaughter the Strong,RIX,Rivals of Ixalan,{1}{W}{W},['White'],Sorcery,,Rare
+439680,Snubhorn Sentry,RIX,Rivals of Ixalan,{W},['White'],Creature — Dinosaur,,Common
+439681,Sphinx's Decree,RIX,Rivals of Ixalan,{1}{W},['White'],Sorcery,,Rare
+439682,Squire's Devotion,RIX,Rivals of Ixalan,{2}{W},['White'],Enchantment — Aura,,Common
+439683,Sun Sentinel,RIX,Rivals of Ixalan,{1}{W},['White'],Creature — Human Soldier,,Common
+439684,Sun-Crested Pterodon,RIX,Rivals of Ixalan,{4}{W},['White'],Creature — Dinosaur,,Common
+439685,Temple Altisaur,RIX,Rivals of Ixalan,{4}{W},['White'],Creature — Dinosaur,,Rare
+439686,Trapjaw Tyrant,RIX,Rivals of Ixalan,{3}{W}{W},['White'],Creature — Dinosaur,,Mythic Rare
+439687,"Zetalpa, Primal Dawn",RIX,Rivals of Ixalan,{6}{W}{W},['White'],Legendary Creature — Elder Dinosaur,['Legendary'],Rare
+439688,Admiral's Order,RIX,Rivals of Ixalan,{1}{U}{U},['Blue'],Instant,,Rare
+439689,Aquatic Incursion,RIX,Rivals of Ixalan,{3}{U},['Blue'],Enchantment,,Uncommon
+439690,Crafty Cutpurse,RIX,Rivals of Ixalan,{3}{U},['Blue'],Creature — Human Pirate,,Rare
+439691,Crashing Tide,RIX,Rivals of Ixalan,{2}{U},['Blue'],Sorcery,,Common
+439692,Curious Obsession,RIX,Rivals of Ixalan,{U},['Blue'],Enchantment — Aura,,Uncommon
+439693,Deadeye Rig-Hauler,RIX,Rivals of Ixalan,{3}{U},['Blue'],Creature — Human Pirate,,Common
+439694,Expel from Orazca,RIX,Rivals of Ixalan,{1}{U},['Blue'],Instant,,Uncommon
+439695,Flood of Recollection,RIX,Rivals of Ixalan,{U}{U},['Blue'],Sorcery,,Uncommon
+439696,Hornswoggle,RIX,Rivals of Ixalan,{2}{U},['Blue'],Instant,,Uncommon
+439697,Induced Amnesia,RIX,Rivals of Ixalan,{2}{U},['Blue'],Enchantment,,Rare
+439698,Kitesail Corsair,RIX,Rivals of Ixalan,{1}{U},['Blue'],Creature — Human Pirate,,Common
+439699,Kumena's Awakening,RIX,Rivals of Ixalan,{2}{U}{U},['Blue'],Enchantment,,Rare
+439700,Mist-Cloaked Herald,RIX,Rivals of Ixalan,{U},['Blue'],Creature — Merfolk Warrior,,Common
+439701,Negate,RIX,Rivals of Ixalan,{1}{U},['Blue'],Instant,,Common
+439702,"Nezahal, Primal Tide",RIX,Rivals of Ixalan,{5}{U}{U},['Blue'],Legendary Creature — Elder Dinosaur,['Legendary'],Rare
+439703,Release to the Wind,RIX,Rivals of Ixalan,{2}{U},['Blue'],Instant,,Rare
+439704,River Darter,RIX,Rivals of Ixalan,{2}{U},['Blue'],Creature — Merfolk Warrior,,Common
+439705,Riverwise Augur,RIX,Rivals of Ixalan,{3}{U},['Blue'],Creature — Merfolk Wizard,,Uncommon
+439706,Sailor of Means,RIX,Rivals of Ixalan,{2}{U},['Blue'],Creature — Human Pirate,,Common
+439707,Sea Legs,RIX,Rivals of Ixalan,{U},['Blue'],Enchantment — Aura,,Common
+439708,Seafloor Oracle,RIX,Rivals of Ixalan,{2}{U}{U},['Blue'],Creature — Merfolk Wizard,,Rare
+439709,Secrets of the Golden City,RIX,Rivals of Ixalan,{1}{U}{U},['Blue'],Sorcery,,Common
+439710,Silvergill Adept,RIX,Rivals of Ixalan,{1}{U},['Blue'],Creature — Merfolk Wizard,,Uncommon
+439711,Siren Reaver,RIX,Rivals of Ixalan,{3}{U},['Blue'],Creature — Siren Pirate,,Uncommon
+439712,Slippery Scoundrel,RIX,Rivals of Ixalan,{2}{U},['Blue'],Creature — Human Pirate,,Uncommon
+439713,Soul of the Rapids,RIX,Rivals of Ixalan,{3}{U}{U},['Blue'],Creature — Elemental,,Common
+439714,Spire Winder,RIX,Rivals of Ixalan,{3}{U},['Blue'],Creature — Snake,,Common
+439715,Sworn Guardian,RIX,Rivals of Ixalan,{1}{U},['Blue'],Creature — Merfolk Warrior,,Common
+439716,Timestream Navigator,RIX,Rivals of Ixalan,{1}{U},['Blue'],Creature — Human Pirate Wizard,,Mythic Rare
+439717,Warkite Marauder,RIX,Rivals of Ixalan,{1}{U},['Blue'],Creature — Human Pirate,,Rare
+439718,Waterknot,RIX,Rivals of Ixalan,{1}{U}{U},['Blue'],Enchantment — Aura,,Common
+439719,Arterial Flow,RIX,Rivals of Ixalan,{1}{B}{B},['Black'],Sorcery,,Uncommon
+439720,Canal Monitor,RIX,Rivals of Ixalan,{4}{B},['Black'],Creature — Lizard,,Common
+439721,Champion of Dusk,RIX,Rivals of Ixalan,{3}{B}{B},['Black'],Creature — Vampire Knight,,Rare
+439722,Dark Inquiry,RIX,Rivals of Ixalan,{2}{B},['Black'],Sorcery,,Common
+439723,Dead Man's Chest,RIX,Rivals of Ixalan,{1}{B},['Black'],Enchantment — Aura,,Rare
+439724,Dinosaur Hunter,RIX,Rivals of Ixalan,{1}{B},['Black'],Creature — Human Pirate,,Common
+439725,Dire Fleet Poisoner,RIX,Rivals of Ixalan,{1}{B},['Black'],Creature — Human Pirate,,Rare
+439726,Dusk Charger,RIX,Rivals of Ixalan,{3}{B},['Black'],Creature — Horse,,Common
+439727,Dusk Legion Zealot,RIX,Rivals of Ixalan,{1}{B},['Black'],Creature — Vampire Soldier,,Common
+439728,Fathom Fleet Boarder,RIX,Rivals of Ixalan,{2}{B},['Black'],Creature — Orc Pirate,,Common
+439729,Forerunner of the Coalition,RIX,Rivals of Ixalan,{2}{B},['Black'],Creature — Human Pirate,,Uncommon
+439730,Golden Demise,RIX,Rivals of Ixalan,{1}{B}{B},['Black'],Sorcery,,Uncommon
+439731,Grasping Scoundrel,RIX,Rivals of Ixalan,{B},['Black'],Creature — Human Pirate,,Common
+439732,Gruesome Fate,RIX,Rivals of Ixalan,{2}{B},['Black'],Sorcery,,Common
+439733,Impale,RIX,Rivals of Ixalan,{2}{B}{B},['Black'],Sorcery,,Common
+439734,Mastermind's Acquisition,RIX,Rivals of Ixalan,{2}{B}{B},['Black'],Sorcery,,Rare
+439735,Mausoleum Harpy,RIX,Rivals of Ixalan,{4}{B},['Black'],Creature — Harpy,,Uncommon
+439736,Moment of Craving,RIX,Rivals of Ixalan,{1}{B},['Black'],Instant,,Common
+439737,Oathsworn Vampire,RIX,Rivals of Ixalan,{1}{B},['Black'],Creature — Vampire Knight,,Uncommon
+439738,Pitiless Plunderer,RIX,Rivals of Ixalan,{3}{B},['Black'],Creature — Human Pirate,,Uncommon
+439739,Ravenous Chupacabra,RIX,Rivals of Ixalan,{2}{B}{B},['Black'],Creature — Beast Horror,,Uncommon
+439740,Reaver Ambush,RIX,Rivals of Ixalan,{2}{B},['Black'],Instant,,Uncommon
+439741,Recover,RIX,Rivals of Ixalan,{2}{B},['Black'],Sorcery,,Common
+439742,Sadistic Skymarcher,RIX,Rivals of Ixalan,{2}{B},['Black'],Creature — Vampire Soldier,,Uncommon
+439743,"Tetzimoc, Primal Death",RIX,Rivals of Ixalan,{4}{B}{B},['Black'],Legendary Creature — Elder Dinosaur,['Legendary'],Rare
+439744,Tomb Robber,RIX,Rivals of Ixalan,{2}{B},['Black'],Creature — Human Pirate,,Rare
+439745,Twilight Prophet,RIX,Rivals of Ixalan,{2}{B}{B},['Black'],Creature — Vampire Cleric,,Mythic Rare
+439746,Vampire Revenant,RIX,Rivals of Ixalan,{3}{B},['Black'],Creature — Vampire Spirit,,Common
+439747,Vona's Hunger,RIX,Rivals of Ixalan,{2}{B},['Black'],Instant,,Rare
+439748,Voracious Vampire,RIX,Rivals of Ixalan,{2}{B},['Black'],Creature — Vampire Knight,,Common
+439749,Blood Sun,RIX,Rivals of Ixalan,{2}{R},['Red'],Enchantment,,Rare
+439750,Bombard,RIX,Rivals of Ixalan,{2}{R},['Red'],Instant,,Common
+439751,Brass's Bounty,RIX,Rivals of Ixalan,{6}{R},['Red'],Sorcery,,Rare
+439752,Brazen Freebooter,RIX,Rivals of Ixalan,{3}{R},['Red'],Creature — Human Pirate,,Common
+439753,Buccaneer's Bravado,RIX,Rivals of Ixalan,{1}{R},['Red'],Instant,,Common
+439754,Charging Tuskodon,RIX,Rivals of Ixalan,{3}{R}{R},['Red'],Creature — Dinosaur,,Uncommon
+439755,Daring Buccaneer,RIX,Rivals of Ixalan,{R},['Red'],Creature — Human Pirate,,Uncommon
+439756,Dire Fleet Daredevil,RIX,Rivals of Ixalan,{1}{R},['Red'],Creature — Human Pirate,,Rare
+439757,"Etali, Primal Storm",RIX,Rivals of Ixalan,{4}{R}{R},['Red'],Legendary Creature — Elder Dinosaur,['Legendary'],Rare
+439758,Fanatical Firebrand,RIX,Rivals of Ixalan,{R},['Red'],Creature — Goblin Pirate,,Common
+439759,Forerunner of the Empire,RIX,Rivals of Ixalan,{3}{R},['Red'],Creature — Human Soldier,,Uncommon
+439760,Form of the Dinosaur,RIX,Rivals of Ixalan,{4}{R}{R},['Red'],Enchantment,,Rare
+439761,Frilled Deathspitter,RIX,Rivals of Ixalan,{2}{R},['Red'],Creature — Dinosaur,,Common
+439762,Goblin Trailblazer,RIX,Rivals of Ixalan,{1}{R},['Red'],Creature — Goblin Pirate,,Common
+439763,Mutiny,RIX,Rivals of Ixalan,{R},['Red'],Sorcery,,Common
+439764,Needletooth Raptor,RIX,Rivals of Ixalan,{3}{R},['Red'],Creature — Dinosaur,,Uncommon
+439765,Orazca Raptor,RIX,Rivals of Ixalan,{2}{R}{R},['Red'],Creature — Dinosaur,,Common
+439766,Pirate's Pillage,RIX,Rivals of Ixalan,{3}{R},['Red'],Sorcery,,Uncommon
+439767,Reckless Rage,RIX,Rivals of Ixalan,{R},['Red'],Instant,,Uncommon
+439768,Rekindling Phoenix,RIX,Rivals of Ixalan,{2}{R}{R},['Red'],Creature — Phoenix,,Mythic Rare
+439769,See Red,RIX,Rivals of Ixalan,{1}{R},['Red'],Enchantment — Aura,,Uncommon
+439770,Shake the Foundations,RIX,Rivals of Ixalan,{2}{R},['Red'],Instant,,Uncommon
+439771,Shatter,RIX,Rivals of Ixalan,{1}{R},['Red'],Instant,,Common
+439772,Silverclad Ferocidons,RIX,Rivals of Ixalan,{5}{R}{R},['Red'],Creature — Dinosaur,,Rare
+439773,Stampeding Horncrest,RIX,Rivals of Ixalan,{4}{R},['Red'],Creature — Dinosaur,,Common
+439774,Storm Fleet Swashbuckler,RIX,Rivals of Ixalan,{1}{R},['Red'],Creature — Human Pirate,,Uncommon
+439775,Sun-Collared Raptor,RIX,Rivals of Ixalan,{1}{R},['Red'],Creature — Dinosaur,,Common
+439776,Swaggering Corsair,RIX,Rivals of Ixalan,{2}{R},['Red'],Creature — Human Pirate,,Common
+439777,Tilonalli's Crown,RIX,Rivals of Ixalan,{1}{R},['Red'],Enchantment — Aura,,Common
+439778,Tilonalli's Summoner,RIX,Rivals of Ixalan,{1}{R},['Red'],Creature — Human Shaman,,Rare
+439779,Aggressive Urge,RIX,Rivals of Ixalan,{1}{G},['Green'],Instant,,Common
+439780,Cacophodon,RIX,Rivals of Ixalan,{3}{G},['Green'],Creature — Dinosaur,,Uncommon
+439781,Cherished Hatchling,RIX,Rivals of Ixalan,{1}{G},['Green'],Creature — Dinosaur,,Uncommon
+439782,Colossal Dreadmaw,RIX,Rivals of Ixalan,{4}{G}{G},['Green'],Creature — Dinosaur,,Common
+439783,Crested Herdcaller,RIX,Rivals of Ixalan,{3}{G}{G},['Green'],Creature — Dinosaur,,Uncommon
+439784,Deeproot Elite,RIX,Rivals of Ixalan,{1}{G},['Green'],Creature — Merfolk Warrior,,Rare
+439785,Enter the Unknown,RIX,Rivals of Ixalan,{G},['Green'],Sorcery,,Uncommon
+439786,Forerunner of the Heralds,RIX,Rivals of Ixalan,{3}{G},['Green'],Creature — Merfolk Scout,,Uncommon
+439787,"Ghalta, Primal Hunger",RIX,Rivals of Ixalan,{10}{G}{G},['Green'],Legendary Creature — Elder Dinosaur,['Legendary'],Rare
+439788,Giltgrove Stalker,RIX,Rivals of Ixalan,{1}{G},['Green'],Creature — Merfolk Warrior,,Common
+439789,Hardy Veteran,RIX,Rivals of Ixalan,{1}{G},['Green'],Creature — Human Warrior,,Common
+439790,Hunt the Weak,RIX,Rivals of Ixalan,{3}{G},['Green'],Sorcery,,Common
+439791,Jade Bearer,RIX,Rivals of Ixalan,{G},['Green'],Creature — Merfolk Shaman,,Common
+439792,Jadecraft Artisan,RIX,Rivals of Ixalan,{3}{G},['Green'],Creature — Merfolk Shaman,,Common
+439793,Jadelight Ranger,RIX,Rivals of Ixalan,{1}{G}{G},['Green'],Creature — Merfolk Scout,,Rare
+439794,Jungleborn Pioneer,RIX,Rivals of Ixalan,{2}{G},['Green'],Creature — Merfolk Scout,,Common
+439795,Knight of the Stampede,RIX,Rivals of Ixalan,{3}{G},['Green'],Creature — Human Knight,,Common
+439796,Naturalize,RIX,Rivals of Ixalan,{1}{G},['Green'],Instant,,Common
+439797,Orazca Frillback,RIX,Rivals of Ixalan,{2}{G},['Green'],Creature — Dinosaur,,Common
+439798,Overgrown Armasaur,RIX,Rivals of Ixalan,{3}{G}{G},['Green'],Creature — Dinosaur,,Common
+439799,Path of Discovery,RIX,Rivals of Ixalan,{3}{G},['Green'],Enchantment,,Rare
+439800,Plummet,RIX,Rivals of Ixalan,{1}{G},['Green'],Instant,,Common
+439801,Polyraptor,RIX,Rivals of Ixalan,{6}{G}{G},['Green'],Creature — Dinosaur,,Mythic Rare
+439802,Strength of the Pack,RIX,Rivals of Ixalan,{4}{G}{G},['Green'],Sorcery,,Uncommon
+439803,Swift Warden,RIX,Rivals of Ixalan,{1}{G}{G},['Green'],Creature — Merfolk Warrior,,Uncommon
+439804,Tendershoot Dryad,RIX,Rivals of Ixalan,{4}{G},['Green'],Creature — Dryad,,Rare
+439805,Thrashing Brontodon,RIX,Rivals of Ixalan,{1}{G}{G},['Green'],Creature — Dinosaur,,Uncommon
+439806,Thunderherd Migration,RIX,Rivals of Ixalan,{1}{G},['Green'],Sorcery,,Uncommon
+439807,Wayward Swordtooth,RIX,Rivals of Ixalan,{2}{G},['Green'],Creature — Dinosaur,,Rare
+439808,World Shaper,RIX,Rivals of Ixalan,{3}{G},['Green'],Creature — Merfolk Shaman,,Rare
+439809,"Angrath, the Flame-Chained",RIX,Rivals of Ixalan,{3}{B}{R},"['Black', 'Red']",Legendary Planeswalker — Angrath,['Legendary'],Mythic Rare
+439810,Atzocan Seer,RIX,Rivals of Ixalan,{1}{G}{W},"['White', 'Green']",Creature — Human Druid,,Uncommon
+439811,"Azor, the Lawbringer",RIX,Rivals of Ixalan,{2}{W}{W}{U}{U},"['White', 'Blue']",Legendary Creature — Sphinx,['Legendary'],Mythic Rare
+439812,Deadeye Brawler,RIX,Rivals of Ixalan,{2}{U}{B},"['Blue', 'Black']",Creature — Human Pirate,,Uncommon
+439813,Dire Fleet Neckbreaker,RIX,Rivals of Ixalan,{2}{B}{R},"['Black', 'Red']",Creature — Orc Pirate,,Uncommon
+439814,"Elenda, the Dusk Rose",RIX,Rivals of Ixalan,{2}{W}{B},"['White', 'Black']",Legendary Creature — Vampire Knight,['Legendary'],Mythic Rare
+439815,Hadana's Climb,RIX,Rivals of Ixalan,{1}{G}{U},"['Blue', 'Green']",Legendary Enchantment,['Legendary'],Rare
+439816,Winged Temple of Orazca,RIX,Rivals of Ixalan,,,Legendary Land,['Legendary'],Rare
+439817,"Huatli, Radiant Champion",RIX,Rivals of Ixalan,{2}{G}{W},"['White', 'Green']",Legendary Planeswalker — Huatli,['Legendary'],Mythic Rare
+439818,Journey to Eternity,RIX,Rivals of Ixalan,{1}{B}{G},"['Black', 'Green']",Legendary Enchantment — Aura,['Legendary'],Rare
+439819,"Atzal, Cave of Eternity",RIX,Rivals of Ixalan,,,Legendary Land,['Legendary'],Rare
+439820,Jungle Creeper,RIX,Rivals of Ixalan,{1}{B}{G},"['Black', 'Green']",Creature — Elemental,,Uncommon
+439821,"Kumena, Tyrant of Orazca",RIX,Rivals of Ixalan,{1}{G}{U},"['Blue', 'Green']",Legendary Creature — Merfolk Shaman,['Legendary'],Mythic Rare
+439822,Legion Lieutenant,RIX,Rivals of Ixalan,{W}{B},"['White', 'Black']",Creature — Vampire Knight,,Uncommon
+439823,Merfolk Mistbinder,RIX,Rivals of Ixalan,{G}{U},"['Blue', 'Green']",Creature — Merfolk Shaman,,Uncommon
+439824,Path of Mettle,RIX,Rivals of Ixalan,{R}{W},"['White', 'Red']",Legendary Enchantment,['Legendary'],Rare
+439825,"Metzali, Tower of Triumph",RIX,Rivals of Ixalan,,,Legendary Land,['Legendary'],Rare
+439826,Profane Procession,RIX,Rivals of Ixalan,{1}{W}{B},"['White', 'Black']",Legendary Enchantment,['Legendary'],Rare
+439827,Tomb of the Dusk Rose,RIX,Rivals of Ixalan,,,Legendary Land,['Legendary'],Rare
+439828,Protean Raider,RIX,Rivals of Ixalan,{1}{U}{R},"['Blue', 'Red']",Creature — Shapeshifter Pirate,,Rare
+439829,Raging Regisaur,RIX,Rivals of Ixalan,{2}{R}{G},"['Red', 'Green']",Creature — Dinosaur,,Uncommon
+439830,Relentless Raptor,RIX,Rivals of Ixalan,{R}{W},"['White', 'Red']",Creature — Dinosaur,,Uncommon
+439831,Resplendent Griffin,RIX,Rivals of Ixalan,{1}{W}{U},"['White', 'Blue']",Creature — Griffin,,Uncommon
+439832,Siegehorn Ceratops,RIX,Rivals of Ixalan,{G}{W},"['White', 'Green']",Creature — Dinosaur,,Rare
+439833,Storm Fleet Sprinter,RIX,Rivals of Ixalan,{1}{U}{R},"['Blue', 'Red']",Creature — Human Pirate,,Uncommon
+439834,Storm the Vault,RIX,Rivals of Ixalan,{2}{U}{R},"['Blue', 'Red']",Legendary Enchantment,['Legendary'],Rare
+439835,Vault of Catlacan,RIX,Rivals of Ixalan,,,Legendary Land,['Legendary'],Rare
+439836,"Zacama, Primal Calamity",RIX,Rivals of Ixalan,{6}{R}{G}{W},"['White', 'Red', 'Green']",Legendary Creature — Elder Dinosaur,['Legendary'],Mythic Rare
+439837,Awakened Amalgam,RIX,Rivals of Ixalan,{4},,Artifact Creature — Golem,,Rare
+439838,Azor's Gateway,RIX,Rivals of Ixalan,{2},,Legendary Artifact,['Legendary'],Mythic Rare
+439839,Sanctum of the Sun,RIX,Rivals of Ixalan,,,Legendary Land,['Legendary'],Mythic Rare
+439840,Captain's Hook,RIX,Rivals of Ixalan,{3},,Artifact — Equipment,,Rare
+439841,Gleaming Barrier,RIX,Rivals of Ixalan,{2},,Artifact Creature — Wall,,Common
+439842,Golden Guardian,RIX,Rivals of Ixalan,{4},,Artifact Creature — Golem,,Rare
+439843,Gold-Forge Garrison,RIX,Rivals of Ixalan,,,Land,,Rare
+439844,The Immortal Sun,RIX,Rivals of Ixalan,{6},,Legendary Artifact,['Legendary'],Mythic Rare
+439845,Orazca Relic,RIX,Rivals of Ixalan,{3},,Artifact,,Common
+439846,Silent Gravestone,RIX,Rivals of Ixalan,{1},,Artifact,,Rare
+439847,Strider Harness,RIX,Rivals of Ixalan,{3},,Artifact — Equipment,,Common
+439848,Traveler's Amulet,RIX,Rivals of Ixalan,{1},,Artifact,,Common
+439849,Arch of Orazca,RIX,Rivals of Ixalan,,,Land,,Rare
+439850,Evolving Wilds,RIX,Rivals of Ixalan,,,Land,,Common
+439851,Forsaken Sanctuary,RIX,Rivals of Ixalan,,,Land,,Uncommon
+439852,Foul Orchard,RIX,Rivals of Ixalan,,,Land,,Uncommon
+439853,Highland Lake,RIX,Rivals of Ixalan,,,Land,,Uncommon
+439854,Stone Quarry,RIX,Rivals of Ixalan,,,Land,,Uncommon
+439855,Woodland Stream,RIX,Rivals of Ixalan,,,Land,,Uncommon
+439856,Plains,RIX,Rivals of Ixalan,,,Basic Land — Plains,['Basic'],Basic Land
+439857,Island,RIX,Rivals of Ixalan,,,Basic Land — Island,['Basic'],Basic Land
+439858,Swamp,RIX,Rivals of Ixalan,,,Basic Land — Swamp,['Basic'],Basic Land
+439859,Mountain,RIX,Rivals of Ixalan,,,Basic Land — Mountain,['Basic'],Basic Land
+439860,Forest,RIX,Rivals of Ixalan,,,Basic Land — Forest,['Basic'],Basic Land
+441891,"Vraska, Scheming Gorgon",RIX,Rivals of Ixalan,{4}{B}{B},['Black'],Legendary Planeswalker — Vraska,['Legendary'],Mythic Rare
+441892,Vampire Champion,RIX,Rivals of Ixalan,{3}{B},['Black'],Creature — Vampire Soldier,,Common
+441893,Vraska's Conquistador,RIX,Rivals of Ixalan,{1}{B},['Black'],Creature — Vampire Soldier,,Uncommon
+441894,Vraska's Scorn,RIX,Rivals of Ixalan,{2}{B}{B},['Black'],Sorcery,,Rare
+441895,"Angrath, Minotaur Pirate",RIX,Rivals of Ixalan,{4}{B}{R},"['Black', 'Red']",Legendary Planeswalker — Angrath,['Legendary'],Mythic Rare
+441896,Angrath's Ambusher,RIX,Rivals of Ixalan,{2}{B},['Black'],Creature — Orc Pirate,,Uncommon
+441897,Swab Goblin,RIX,Rivals of Ixalan,{1}{R},['Red'],Creature — Goblin Pirate,,Common
+441898,Angrath's Fury,RIX,Rivals of Ixalan,{3}{B}{R},"['Black', 'Red']",Sorcery,,Rare
+441899,Cinder Barrens,RIX,Rivals of Ixalan,,,Land,,Common
+442889,"Karn, Scion of Urza",DOM,Dominaria,{4},,Legendary Planeswalker — Karn,['Legendary'],Mythic Rare
+442890,Adamant Will,DOM,Dominaria,{1}{W},['White'],Instant,,Common
+442891,Aven Sentry,DOM,Dominaria,{3}{W},['White'],Creature — Bird Soldier,,Common
+442892,"Baird, Steward of Argive",DOM,Dominaria,{2}{W}{W},['White'],Legendary Creature — Human Soldier,['Legendary'],Uncommon
+442893,Benalish Honor Guard,DOM,Dominaria,{1}{W},['White'],Creature — Human Knight,,Common
+442894,Benalish Marshal,DOM,Dominaria,{W}{W}{W},['White'],Creature — Human Knight,,Rare
+442895,Blessed Light,DOM,Dominaria,{4}{W},['White'],Instant,,Common
+442896,Board the Weatherlight,DOM,Dominaria,{1}{W},['White'],Sorcery,,Uncommon
+442897,Call the Cavalry,DOM,Dominaria,{3}{W},['White'],Sorcery,,Common
+442898,Charge,DOM,Dominaria,{W},['White'],Instant,,Common
+442899,D'Avenant Trapper,DOM,Dominaria,{2}{W},['White'],Creature — Human Archer,,Common
+442900,"Danitha Capashen, Paragon",DOM,Dominaria,{2}{W},['White'],Legendary Creature — Human Knight,['Legendary'],Uncommon
+442901,Daring Archaeologist,DOM,Dominaria,{3}{W},['White'],Creature — Human Artificer,,Rare
+442902,Dauntless Bodyguard,DOM,Dominaria,{W},['White'],Creature — Human Knight,,Uncommon
+442903,Dub,DOM,Dominaria,{2}{W},['White'],Enchantment — Aura,,Common
+442904,"Evra, Halcyon Witness",DOM,Dominaria,{4}{W}{W},['White'],Legendary Creature — Avatar,['Legendary'],Rare
+442905,Excavation Elephant,DOM,Dominaria,{4}{W},['White'],Creature — Elephant,,Common
+442906,Fall of the Thran,DOM,Dominaria,{5}{W},['White'],Enchantment — Saga,,Rare
+442907,Gideon's Reproach,DOM,Dominaria,{1}{W},['White'],Instant,,Common
+442908,Healing Grace,DOM,Dominaria,{W},['White'],Instant,,Common
+442909,History of Benalia,DOM,Dominaria,{1}{W}{W},['White'],Enchantment — Saga,,Mythic Rare
+442910,Invoke the Divine,DOM,Dominaria,{2}{W},['White'],Instant,,Common
+442911,Knight of Grace,DOM,Dominaria,{1}{W},['White'],Creature — Human Knight,,Uncommon
+442912,Knight of New Benalia,DOM,Dominaria,{1}{W},['White'],Creature — Human Knight,,Common
+442913,"Kwende, Pride of Femeref",DOM,Dominaria,{3}{W},['White'],Legendary Creature — Human Knight,['Legendary'],Uncommon
+442914,Lyra Dawnbringer,DOM,Dominaria,{3}{W}{W},['White'],Legendary Creature — Angel,['Legendary'],Mythic Rare
+442915,Mesa Unicorn,DOM,Dominaria,{1}{W},['White'],Creature — Unicorn,,Common
+442916,On Serra's Wings,DOM,Dominaria,{3}{W},['White'],Legendary Enchantment — Aura,['Legendary'],Uncommon
+442917,Pegasus Courser,DOM,Dominaria,{2}{W},['White'],Creature — Pegasus,,Common
+442918,Sanctum Spirit,DOM,Dominaria,{3}{W},['White'],Creature — Spirit,,Uncommon
+442919,Seal Away,DOM,Dominaria,{1}{W},['White'],Enchantment,,Uncommon
+442920,Sergeant-at-Arms,DOM,Dominaria,{2}{W},['White'],Creature — Human Soldier,,Common
+442921,Serra Angel,DOM,Dominaria,{3}{W}{W},['White'],Creature — Angel,,Uncommon
+442922,Serra Disciple,DOM,Dominaria,{1}{W},['White'],Creature — Bird Cleric,,Common
+442923,"Shalai, Voice of Plenty",DOM,Dominaria,{3}{W},['White'],Legendary Creature — Angel,['Legendary'],Rare
+442924,"Teshar, Ancestor's Apostle",DOM,Dominaria,{3}{W},['White'],Legendary Creature — Bird Cleric,['Legendary'],Rare
+442925,Tragic Poet,DOM,Dominaria,{W},['White'],Creature — Human,,Common
+442926,Triumph of Gerrard,DOM,Dominaria,{1}{W},['White'],Enchantment — Saga,,Uncommon
+442927,Urza's Ruinous Blast,DOM,Dominaria,{4}{W},['White'],Legendary Sorcery,['Legendary'],Rare
+442928,Academy Drake,DOM,Dominaria,{2}{U},['Blue'],Creature — Drake,,Common
+442929,Academy Journeymage,DOM,Dominaria,{4}{U},['Blue'],Creature — Human Wizard,,Common
+442930,The Antiquities War,DOM,Dominaria,{3}{U},['Blue'],Enchantment — Saga,,Rare
+442931,Arcane Flight,DOM,Dominaria,{U},['Blue'],Enchantment — Aura,,Common
+442932,Artificer's Assistant,DOM,Dominaria,{U},['Blue'],Creature — Bird,,Common
+442933,Befuddle,DOM,Dominaria,{2}{U},['Blue'],Instant,,Common
+442934,Blink of an Eye,DOM,Dominaria,{1}{U},['Blue'],Instant,,Common
+442935,Cloudreader Sphinx,DOM,Dominaria,{4}{U},['Blue'],Creature — Sphinx,,Common
+442936,Cold-Water Snapper,DOM,Dominaria,{5}{U},['Blue'],Creature — Turtle,,Common
+442937,Curator's Ward,DOM,Dominaria,{2}{U},['Blue'],Enchantment — Aura,,Uncommon
+442938,Deep Freeze,DOM,Dominaria,{2}{U},['Blue'],Enchantment — Aura,,Common
+442939,Diligent Excavator,DOM,Dominaria,{1}{U},['Blue'],Creature — Human Artificer,,Uncommon
+442940,Divination,DOM,Dominaria,{2}{U},['Blue'],Sorcery,,Common
+442941,Homarid Explorer,DOM,Dominaria,{3}{U},['Blue'],Creature — Homarid Scout,,Common
+442942,In Bolas's Clutches,DOM,Dominaria,{4}{U}{U},['Blue'],Legendary Enchantment — Aura,['Legendary'],Uncommon
+442943,Karn's Temporal Sundering,DOM,Dominaria,{4}{U}{U},['Blue'],Legendary Sorcery,['Legendary'],Rare
+442944,Merfolk Trickster,DOM,Dominaria,{U}{U},['Blue'],Creature — Merfolk Wizard,,Uncommon
+442945,The Mirari Conjecture,DOM,Dominaria,{4}{U},['Blue'],Enchantment — Saga,,Rare
+442946,"Naban, Dean of Iteration",DOM,Dominaria,{1}{U},['Blue'],Legendary Creature — Human Wizard,['Legendary'],Rare
+442947,"Naru Meha, Master Wizard",DOM,Dominaria,{2}{U}{U},['Blue'],Legendary Creature — Human Wizard,['Legendary'],Mythic Rare
+442948,Opt,DOM,Dominaria,{U},['Blue'],Instant,,Common
+442949,Precognition Field,DOM,Dominaria,{3}{U},['Blue'],Enchantment,,Rare
+442950,Relic Runner,DOM,Dominaria,{1}{U},['Blue'],Creature — Human Rogue,,Common
+442951,Rescue,DOM,Dominaria,{U},['Blue'],Instant,,Common
+442952,Sage of Lat-Nam,DOM,Dominaria,{1}{U},['Blue'],Creature — Human Artificer,,Uncommon
+442953,Sentinel of the Pearl Trident,DOM,Dominaria,{4}{U},['Blue'],Creature — Merfolk Soldier,,Uncommon
+442954,"Slinn Voda, the Rising Deep",DOM,Dominaria,{6}{U}{U},['Blue'],Legendary Creature — Leviathan,['Legendary'],Uncommon
+442955,Syncopate,DOM,Dominaria,{X}{U},['Blue'],Instant,,Common
+442956,Tempest Djinn,DOM,Dominaria,{U}{U}{U},['Blue'],Creature — Djinn,,Rare
+442957,"Tetsuko Umezawa, Fugitive",DOM,Dominaria,{1}{U},['Blue'],Legendary Creature — Human Rogue,['Legendary'],Uncommon
+442958,Time of Ice,DOM,Dominaria,{3}{U},['Blue'],Enchantment — Saga,,Uncommon
+442959,Tolarian Scholar,DOM,Dominaria,{2}{U},['Blue'],Creature — Human Wizard,,Common
+442960,Unwind,DOM,Dominaria,{2}{U},['Blue'],Instant,,Common
+442961,Vodalian Arcanist,DOM,Dominaria,{1}{U},['Blue'],Creature — Merfolk Wizard,,Common
+442962,Weight of Memory,DOM,Dominaria,{3}{U}{U},['Blue'],Sorcery,,Uncommon
+442963,Wizard's Retort,DOM,Dominaria,{1}{U}{U},['Blue'],Instant,,Uncommon
+442964,"Zahid, Djinn of the Lamp",DOM,Dominaria,{4}{U}{U},['Blue'],Legendary Creature — Djinn,['Legendary'],Rare
+442965,Blessing of Belzenlok,DOM,Dominaria,{B},['Black'],Instant,,Common
+442966,Cabal Evangel,DOM,Dominaria,{1}{B},['Black'],Creature — Human Cleric,,Common
+442967,Cabal Paladin,DOM,Dominaria,{3}{B},['Black'],Creature — Human Knight,,Common
+442968,Caligo Skin-Witch,DOM,Dominaria,{1}{B},['Black'],Creature — Human Wizard,,Common
+442969,Cast Down,DOM,Dominaria,{1}{B},['Black'],Instant,,Uncommon
+442970,Chainer's Torment,DOM,Dominaria,{3}{B},['Black'],Enchantment — Saga,,Uncommon
+442971,Dark Bargain,DOM,Dominaria,{3}{B},['Black'],Instant,,Common
+442972,Deathbloom Thallid,DOM,Dominaria,{2}{B},['Black'],Creature — Fungus,,Common
+442973,Demonic Vigor,DOM,Dominaria,{B},['Black'],Enchantment — Aura,,Common
+442974,Demonlord Belzenlok,DOM,Dominaria,{4}{B}{B},['Black'],Legendary Creature — Elder Demon,['Legendary'],Mythic Rare
+442975,Divest,DOM,Dominaria,{B},['Black'],Sorcery,,Common
+442976,Dread Shade,DOM,Dominaria,{B}{B}{B},['Black'],Creature — Shade,,Rare
+442977,Drudge Sentinel,DOM,Dominaria,{2}{B},['Black'],Creature — Skeleton Warrior,,Common
+442978,The Eldest Reborn,DOM,Dominaria,{4}{B},['Black'],Enchantment — Saga,,Uncommon
+442979,Eviscerate,DOM,Dominaria,{3}{B},['Black'],Sorcery,,Common
+442980,Feral Abomination,DOM,Dominaria,{5}{B},['Black'],Creature — Thrull,,Common
+442981,Final Parting,DOM,Dominaria,{3}{B}{B},['Black'],Sorcery,,Uncommon
+442982,Fungal Infection,DOM,Dominaria,{B},['Black'],Instant,,Common
+442983,"Josu Vess, Lich Knight",DOM,Dominaria,{2}{B}{B},['Black'],Legendary Creature — Zombie Knight,['Legendary'],Rare
+442984,"Kazarov, Sengir Pureblood",DOM,Dominaria,{5}{B}{B},['Black'],Legendary Creature — Vampire,['Legendary'],Rare
+442985,Knight of Malice,DOM,Dominaria,{1}{B},['Black'],Creature — Human Knight,,Uncommon
+442986,Lich's Mastery,DOM,Dominaria,{3}{B}{B}{B},['Black'],Legendary Enchantment,['Legendary'],Rare
+442987,Lingering Phantom,DOM,Dominaria,{5}{B},['Black'],Creature — Spirit,,Uncommon
+442988,Phyrexian Scriptures,DOM,Dominaria,{2}{B}{B},['Black'],Enchantment — Saga,,Mythic Rare
+442989,Rat Colony,DOM,Dominaria,{1}{B},['Black'],Creature — Rat,,Common
+442990,Rite of Belzenlok,DOM,Dominaria,{2}{B}{B},['Black'],Enchantment — Saga,,Rare
+442991,Settle the Score,DOM,Dominaria,{2}{B}{B},['Black'],Sorcery,,Uncommon
+442992,Soul Salvage,DOM,Dominaria,{2}{B},['Black'],Sorcery,,Common
+442993,Stronghold Confessor,DOM,Dominaria,{B},['Black'],Creature — Human Cleric,,Common
+442994,Thallid Omnivore,DOM,Dominaria,{3}{B},['Black'],Creature — Fungus,,Common
+442995,Thallid Soothsayer,DOM,Dominaria,{3}{B},['Black'],Creature — Fungus,,Uncommon
+442996,"Torgaar, Famine Incarnate",DOM,Dominaria,{6}{B}{B},['Black'],Legendary Creature — Avatar,['Legendary'],Rare
+442997,"Urgoros, the Empty One",DOM,Dominaria,{4}{B}{B},['Black'],Legendary Creature — Specter,['Legendary'],Uncommon
+442998,Vicious Offering,DOM,Dominaria,{1}{B},['Black'],Instant,,Common
+442999,"Whisper, Blood Liturgist",DOM,Dominaria,{3}{B},['Black'],Legendary Creature — Human Cleric,['Legendary'],Uncommon
+443000,Windgrace Acolyte,DOM,Dominaria,{4}{B},['Black'],Creature — Cat Warrior,,Common
+443001,"Yargle, Glutton of Urborg",DOM,Dominaria,{4}{B},['Black'],Legendary Creature — Frog Spirit,['Legendary'],Uncommon
+443002,Yawgmoth's Vile Offering,DOM,Dominaria,{4}{B},['Black'],Legendary Sorcery,['Legendary'],Rare
+443003,Bloodstone Goblin,DOM,Dominaria,{1}{R},['Red'],Creature — Goblin Warrior,,Common
+443004,Champion of the Flame,DOM,Dominaria,{1}{R},['Red'],Creature — Human Warrior,,Uncommon
+443005,Fervent Strike,DOM,Dominaria,{R},['Red'],Instant,,Common
+443006,Fiery Intervention,DOM,Dominaria,{4}{R},['Red'],Sorcery,,Common
+443007,Fight with Fire,DOM,Dominaria,{2}{R},['Red'],Sorcery,,Uncommon
+443008,Fire Elemental,DOM,Dominaria,{3}{R}{R},['Red'],Creature — Elemental,,Common
+443009,Firefist Adept,DOM,Dominaria,{4}{R},['Red'],Creature — Human Wizard,,Uncommon
+443010,The First Eruption,DOM,Dominaria,{2}{R},['Red'],Enchantment — Saga,,Rare
+443011,The Flame of Keld,DOM,Dominaria,{1}{R},['Red'],Enchantment — Saga,,Uncommon
+443012,Frenzied Rage,DOM,Dominaria,{1}{R},['Red'],Enchantment — Aura,,Common
+443013,Ghitu Chronicler,DOM,Dominaria,{1}{R},['Red'],Creature — Human Wizard,,Common
+443014,Ghitu Journeymage,DOM,Dominaria,{2}{R},['Red'],Creature — Human Wizard,,Common
+443015,Ghitu Lavarunner,DOM,Dominaria,{R},['Red'],Creature — Human Wizard,,Common
+443016,Goblin Barrage,DOM,Dominaria,{3}{R},['Red'],Sorcery,,Uncommon
+443017,Goblin Chainwhirler,DOM,Dominaria,{R}{R}{R},['Red'],Creature — Goblin Warrior,,Rare
+443018,Goblin Warchief,DOM,Dominaria,{1}{R}{R},['Red'],Creature — Goblin Warrior,,Uncommon
+443019,Haphazard Bombardment,DOM,Dominaria,{5}{R},['Red'],Enchantment,,Rare
+443020,Jaya Ballard,DOM,Dominaria,{2}{R}{R}{R},['Red'],Legendary Planeswalker — Jaya,['Legendary'],Mythic Rare
+443021,Jaya's Immolating Inferno,DOM,Dominaria,{X}{R}{R},['Red'],Legendary Sorcery,['Legendary'],Rare
+443022,Keldon Overseer,DOM,Dominaria,{2}{R},['Red'],Creature — Human Warrior,,Common
+443023,Keldon Raider,DOM,Dominaria,{2}{R}{R},['Red'],Creature — Human Warrior,,Common
+443024,Keldon Warcaller,DOM,Dominaria,{1}{R},['Red'],Creature — Human Warrior,,Common
+443025,Orcish Vandal,DOM,Dominaria,{1}{R},['Red'],Creature — Orc Warrior,,Uncommon
+443026,Radiating Lightning,DOM,Dominaria,{3}{R},['Red'],Instant,,Common
+443027,Rampaging Cyclops,DOM,Dominaria,{3}{R},['Red'],Creature — Cyclops,,Common
+443028,Run Amok,DOM,Dominaria,{1}{R},['Red'],Instant,,Common
+443029,Seismic Shift,DOM,Dominaria,{3}{R},['Red'],Sorcery,,Common
+443030,Shivan Fire,DOM,Dominaria,{R},['Red'],Instant,,Common
+443031,Siege-Gang Commander,DOM,Dominaria,{3}{R}{R},['Red'],Creature — Goblin,,Rare
+443032,Skirk Prospector,DOM,Dominaria,{R},['Red'],Creature — Goblin,,Common
+443033,Skizzik,DOM,Dominaria,{3}{R},['Red'],Creature — Elemental,,Uncommon
+443034,"Squee, the Immortal",DOM,Dominaria,{1}{R}{R},['Red'],Legendary Creature — Goblin,['Legendary'],Rare
+443035,Two-Headed Giant,DOM,Dominaria,{2}{R}{R},['Red'],Creature — Giant Warrior,,Rare
+443036,"Valduk, Keeper of the Flame",DOM,Dominaria,{2}{R},['Red'],Legendary Creature — Human Shaman,['Legendary'],Uncommon
+443037,Verix Bladewing,DOM,Dominaria,{2}{R}{R},['Red'],Legendary Creature — Dragon,['Legendary'],Mythic Rare
+443038,Warcry Phoenix,DOM,Dominaria,{3}{R},['Red'],Creature — Phoenix,,Uncommon
+443039,Warlord's Fury,DOM,Dominaria,{R},['Red'],Sorcery,,Common
+443040,Wizard's Lightning,DOM,Dominaria,{2}{R},['Red'],Instant,,Uncommon
+443041,Adventurous Impulse,DOM,Dominaria,{G},['Green'],Sorcery,,Common
+443042,Ancient Animus,DOM,Dominaria,{1}{G},['Green'],Instant,,Common
+443043,Arbor Armament,DOM,Dominaria,{G},['Green'],Instant,,Common
+443044,Baloth Gorger,DOM,Dominaria,{2}{G}{G},['Green'],Creature — Beast,,Common
+443045,Broken Bond,DOM,Dominaria,{1}{G},['Green'],Sorcery,,Common
+443046,Corrosive Ooze,DOM,Dominaria,{1}{G},['Green'],Creature — Ooze,,Common
+443047,Elfhame Druid,DOM,Dominaria,{1}{G},['Green'],Creature — Elf Druid,,Uncommon
+443048,Fungal Plots,DOM,Dominaria,{1}{G},['Green'],Enchantment,,Uncommon
+443049,Gaea's Blessing,DOM,Dominaria,{1}{G},['Green'],Sorcery,,Uncommon
+443050,Gaea's Protector,DOM,Dominaria,{3}{G},['Green'],Creature — Elemental Warrior,,Common
+443051,Gift of Growth,DOM,Dominaria,{1}{G},['Green'],Instant,,Common
+443052,Grow from the Ashes,DOM,Dominaria,{2}{G},['Green'],Sorcery,,Common
+443053,"Grunn, the Lonely King",DOM,Dominaria,{4}{G}{G},['Green'],Legendary Creature — Ape Warrior,['Legendary'],Uncommon
+443054,Kamahl's Druidic Vow,DOM,Dominaria,{X}{G}{G},['Green'],Legendary Sorcery,['Legendary'],Rare
+443055,Krosan Druid,DOM,Dominaria,{2}{G},['Green'],Creature — Centaur Druid,,Common
+443056,Llanowar Elves,DOM,Dominaria,{G},['Green'],Creature — Elf Druid,,Common
+443057,Llanowar Envoy,DOM,Dominaria,{2}{G},['Green'],Creature — Elf Scout,,Common
+443058,Llanowar Scout,DOM,Dominaria,{1}{G},['Green'],Creature — Elf Scout,,Common
+443059,Mammoth Spider,DOM,Dominaria,{4}{G},['Green'],Creature — Spider,,Common
+443060,"Marwyn, the Nurturer",DOM,Dominaria,{2}{G},['Green'],Legendary Creature — Elf Druid,['Legendary'],Rare
+443061,The Mending of Dominaria,DOM,Dominaria,{3}{G}{G},['Green'],Enchantment — Saga,,Rare
+443062,"Multani, Yavimaya's Avatar",DOM,Dominaria,{4}{G}{G},['Green'],Legendary Creature — Elemental Avatar,['Legendary'],Mythic Rare
+443063,Nature's Spiral,DOM,Dominaria,{1}{G},['Green'],Sorcery,,Uncommon
+443064,Pierce the Sky,DOM,Dominaria,{1}{G},['Green'],Instant,,Common
+443065,Primordial Wurm,DOM,Dominaria,{4}{G}{G},['Green'],Creature — Wurm,,Common
+443066,Saproling Migration,DOM,Dominaria,{1}{G},['Green'],Sorcery,,Common
+443067,Song of Freyalise,DOM,Dominaria,{1}{G},['Green'],Enchantment — Saga,,Uncommon
+443068,Spore Swarm,DOM,Dominaria,{3}{G},['Green'],Instant,,Uncommon
+443069,Sporecrown Thallid,DOM,Dominaria,{1}{G},['Green'],Creature — Fungus,,Uncommon
+443070,Steel Leaf Champion,DOM,Dominaria,{G}{G}{G},['Green'],Creature — Elf Knight,,Rare
+443071,Sylvan Awakening,DOM,Dominaria,{2}{G},['Green'],Sorcery,,Rare
+443072,Territorial Allosaurus,DOM,Dominaria,{2}{G}{G},['Green'],Creature — Dinosaur,,Rare
+443073,Thorn Elemental,DOM,Dominaria,{5}{G}{G},['Green'],Creature — Elemental,,Uncommon
+443074,Untamed Kavu,DOM,Dominaria,{1}{G},['Green'],Creature — Kavu,,Uncommon
+443075,Verdant Force,DOM,Dominaria,{5}{G}{G}{G},['Green'],Creature — Elemental,,Rare
+443076,Wild Onslaught,DOM,Dominaria,{3}{G},['Green'],Instant,,Uncommon
+443077,Yavimaya Sapherd,DOM,Dominaria,{2}{G},['Green'],Creature — Fungus,,Common
+443078,"Adeliz, the Cinder Wind",DOM,Dominaria,{1}{U}{R},"['Blue', 'Red']",Legendary Creature — Human Wizard,['Legendary'],Uncommon
+443079,Arvad the Cursed,DOM,Dominaria,{3}{W}{B},"['White', 'Black']",Legendary Creature — Vampire Knight,['Legendary'],Uncommon
+443080,"Aryel, Knight of Windgrace",DOM,Dominaria,{2}{W}{B},"['White', 'Black']",Legendary Creature — Human Knight,['Legendary'],Rare
+443081,Darigaaz Reincarnated,DOM,Dominaria,{4}{B}{R}{G},"['Black', 'Red', 'Green']",Legendary Creature — Dragon,['Legendary'],Mythic Rare
+443082,"Garna, the Bloodflame",DOM,Dominaria,{3}{B}{R},"['Black', 'Red']",Legendary Creature — Human Warrior,['Legendary'],Uncommon
+443083,Grand Warlord Radha,DOM,Dominaria,{2}{R}{G},"['Red', 'Green']",Legendary Creature — Elf Warrior,['Legendary'],Rare
+443084,"Hallar, the Firefletcher",DOM,Dominaria,{1}{R}{G},"['Red', 'Green']",Legendary Creature — Elf Archer,['Legendary'],Uncommon
+443085,"Jhoira, Weatherlight Captain",DOM,Dominaria,{2}{U}{R},"['Blue', 'Red']",Legendary Creature — Human Artificer,['Legendary'],Mythic Rare
+443086,"Jodah, Archmage Eternal",DOM,Dominaria,{1}{U}{R}{W},"['White', 'Blue', 'Red']",Legendary Creature — Human Wizard,['Legendary'],Rare
+443087,"Muldrotha, the Gravetide",DOM,Dominaria,{3}{B}{G}{U},"['Blue', 'Black', 'Green']",Legendary Creature — Elemental Avatar,['Legendary'],Mythic Rare
+443088,Oath of Teferi,DOM,Dominaria,{3}{W}{U},"['White', 'Blue']",Legendary Enchantment,['Legendary'],Rare
+443089,Primevals' Glorious Rebirth,DOM,Dominaria,{5}{W}{B},"['White', 'Black']",Legendary Sorcery,['Legendary'],Rare
+443090,"Raff Capashen, Ship's Mage",DOM,Dominaria,{2}{W}{U},"['White', 'Blue']",Legendary Creature — Human Wizard,['Legendary'],Uncommon
+443091,"Rona, Disciple of Gix",DOM,Dominaria,{1}{U}{B},"['Blue', 'Black']",Legendary Creature — Human Artificer,['Legendary'],Uncommon
+443092,"Shanna, Sisay's Legacy",DOM,Dominaria,{G}{W},"['White', 'Green']",Legendary Creature — Human Warrior,['Legendary'],Uncommon
+443093,"Slimefoot, the Stowaway",DOM,Dominaria,{1}{B}{G},"['Black', 'Green']",Legendary Creature — Fungus,['Legendary'],Uncommon
+443094,"Tatyova, Benthic Druid",DOM,Dominaria,{3}{G}{U},"['Blue', 'Green']",Legendary Creature — Merfolk Druid,['Legendary'],Uncommon
+443095,"Teferi, Hero of Dominaria",DOM,Dominaria,{3}{W}{U},"['White', 'Blue']",Legendary Planeswalker — Teferi,['Legendary'],Mythic Rare
+443096,"Tiana, Ship's Caretaker",DOM,Dominaria,{3}{R}{W},"['White', 'Red']",Legendary Creature — Angel Artificer,['Legendary'],Uncommon
+443097,Aesthir Glider,DOM,Dominaria,{3},,Artifact Creature — Bird Construct,,Common
+443098,Amaranthine Wall,DOM,Dominaria,{4},,Artifact Creature — Wall,,Uncommon
+443099,Blackblade Reforged,DOM,Dominaria,{2},,Legendary Artifact — Equipment,['Legendary'],Rare
+443100,Bloodtallow Candle,DOM,Dominaria,{1},,Artifact,,Common
+443101,Damping Sphere,DOM,Dominaria,{2},,Artifact,,Uncommon
+443102,Forebear's Blade,DOM,Dominaria,{3},,Artifact — Equipment,,Rare
+443103,Gilded Lotus,DOM,Dominaria,{5},,Artifact,,Rare
+443104,Guardians of Koilos,DOM,Dominaria,{5},,Artifact Creature — Construct,,Common
+443105,Helm of the Host,DOM,Dominaria,{4},,Legendary Artifact — Equipment,['Legendary'],Rare
+443106,Howling Golem,DOM,Dominaria,{3},,Artifact Creature — Golem,,Uncommon
+443107,Icy Manipulator,DOM,Dominaria,{4},,Artifact,,Uncommon
+443108,Jhoira's Familiar,DOM,Dominaria,{4},,Artifact Creature — Bird,,Uncommon
+443109,Jousting Lance,DOM,Dominaria,{2},,Artifact — Equipment,,Common
+443110,Juggernaut,DOM,Dominaria,{4},,Artifact Creature — Juggernaut,,Uncommon
+443111,Mishra's Self-Replicator,DOM,Dominaria,{5},,Artifact Creature — Assembly-Worker,,Rare
+443112,Mox Amber,DOM,Dominaria,{0},,Legendary Artifact,['Legendary'],Mythic Rare
+443113,Navigator's Compass,DOM,Dominaria,{1},,Artifact,,Common
+443114,Pardic Wanderer,DOM,Dominaria,{6},,Artifact Creature — Golem,,Common
+443115,Powerstone Shard,DOM,Dominaria,{3},,Artifact,,Common
+443116,Shield of the Realm,DOM,Dominaria,{2},,Artifact — Equipment,,Uncommon
+443117,Short Sword,DOM,Dominaria,{1},,Artifact — Equipment,,Common
+443118,Skittering Surveyor,DOM,Dominaria,{3},,Artifact Creature — Construct,,Common
+443119,Sorcerer's Wand,DOM,Dominaria,{1},,Artifact — Equipment,,Uncommon
+443120,Sparring Construct,DOM,Dominaria,{1},,Artifact Creature — Construct,,Common
+443121,Thran Temporal Gateway,DOM,Dominaria,{4},,Legendary Artifact,['Legendary'],Rare
+443122,"Traxos, Scourge of Kroog",DOM,Dominaria,{4},,Legendary Artifact Creature — Construct,['Legendary'],Rare
+443123,Urza's Tome,DOM,Dominaria,{2},,Artifact,,Uncommon
+443124,Voltaic Servant,DOM,Dominaria,{2},,Artifact Creature — Construct,,Common
+443125,Weatherlight,DOM,Dominaria,{4},,Legendary Artifact — Vehicle,['Legendary'],Mythic Rare
+443126,Cabal Stronghold,DOM,Dominaria,,,Land,,Rare
+443127,Clifftop Retreat,DOM,Dominaria,,,Land,,Rare
+443128,Hinterland Harbor,DOM,Dominaria,,,Land,,Rare
+443129,Isolated Chapel,DOM,Dominaria,,,Land,,Rare
+443130,Memorial to Folly,DOM,Dominaria,,,Land,,Uncommon
+443131,Memorial to Genius,DOM,Dominaria,,,Land,,Uncommon
+443132,Memorial to Glory,DOM,Dominaria,,,Land,,Uncommon
+443133,Memorial to Unity,DOM,Dominaria,,,Land,,Uncommon
+443134,Memorial to War,DOM,Dominaria,,,Land,,Uncommon
+443135,Sulfur Falls,DOM,Dominaria,,,Land,,Rare
+443136,Woodland Cemetery,DOM,Dominaria,,,Land,,Rare
+443137,Zhalfirin Void,DOM,Dominaria,,,Land,,Uncommon
+443138,Plains,DOM,Dominaria,,,Basic Land — Plains,['Basic'],Basic Land
+443139,Plains,DOM,Dominaria,,,Basic Land — Plains,['Basic'],Basic Land
+443140,Plains,DOM,Dominaria,,,Basic Land — Plains,['Basic'],Basic Land
+443141,Plains,DOM,Dominaria,,,Basic Land — Plains,['Basic'],Basic Land
+443142,Island,DOM,Dominaria,,,Basic Land — Island,['Basic'],Basic Land
+443143,Island,DOM,Dominaria,,,Basic Land — Island,['Basic'],Basic Land
+443144,Island,DOM,Dominaria,,,Basic Land — Island,['Basic'],Basic Land
+443145,Island,DOM,Dominaria,,,Basic Land — Island,['Basic'],Basic Land
+443146,Swamp,DOM,Dominaria,,,Basic Land — Swamp,['Basic'],Basic Land
+443147,Swamp,DOM,Dominaria,,,Basic Land — Swamp,['Basic'],Basic Land
+443148,Swamp,DOM,Dominaria,,,Basic Land — Swamp,['Basic'],Basic Land
+443149,Swamp,DOM,Dominaria,,,Basic Land — Swamp,['Basic'],Basic Land
+443150,Mountain,DOM,Dominaria,,,Basic Land — Mountain,['Basic'],Basic Land
+443151,Mountain,DOM,Dominaria,,,Basic Land — Mountain,['Basic'],Basic Land
+443152,Mountain,DOM,Dominaria,,,Basic Land — Mountain,['Basic'],Basic Land
+443153,Mountain,DOM,Dominaria,,,Basic Land — Mountain,['Basic'],Basic Land
+443154,Forest,DOM,Dominaria,,,Basic Land — Forest,['Basic'],Basic Land
+443155,Forest,DOM,Dominaria,,,Basic Land — Forest,['Basic'],Basic Land
+443156,Forest,DOM,Dominaria,,,Basic Land — Forest,['Basic'],Basic Land
+443157,Forest,DOM,Dominaria,,,Basic Land — Forest,['Basic'],Basic Land
+445848,"Teferi, Timebender",DOM,Dominaria,{4}{W}{U},"['White', 'Blue']",Legendary Planeswalker — Teferi,['Legendary'],Mythic Rare
+445849,Temporal Machinations,DOM,Dominaria,{2}{U},['Blue'],Sorcery,,Common
+445850,"Niambi, Faithful Healer",DOM,Dominaria,{1}{W}{U},"['White', 'Blue']",Legendary Creature — Human Cleric,['Legendary'],Rare
+445851,Teferi's Sentinel,DOM,Dominaria,{5},,Artifact Creature — Golem,,Uncommon
+445852,Meandering River,DOM,Dominaria,,,Land,,Common
+445853,"Chandra, Bold Pyromancer",DOM,Dominaria,{4}{R}{R},['Red'],Legendary Planeswalker — Chandra,['Legendary'],Mythic Rare
+445854,Chandra's Outburst,DOM,Dominaria,{3}{R}{R},['Red'],Sorcery,,Rare
+445855,Karplusan Hound,DOM,Dominaria,{3}{R},['Red'],Creature — Hound,,Uncommon
+445856,Pyromantic Pilgrim,DOM,Dominaria,{2}{R},['Red'],Creature — Human Wizard,,Common
+445857,Timber Gorge,DOM,Dominaria,,,Land,,Common
+445958,Firesong and Sunspeaker,DOM,Dominaria,{4}{R}{W},"['White', 'Red']",Legendary Creature — Minotaur Cleric,['Legendary'],Rare
+447049,Mu Yanling,GS1,Global Series: Jiang Yanggu and Mu Yanling,{4}{U}{U},['Blue'],Legendary Planeswalker — Yanling,['Legendary'],Mythic Rare
+447050,Colorful Feiyi Sparrow,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{W},['White'],Creature — Bird,,Common
+447051,Purple-Crystal Crab,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{U},['Blue'],Creature — Crab,,Common
+447052,Vivid Flying Fish,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{U},['Blue'],Creature — Fish Lizard,,Common
+447053,Welkin Tern,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{U},['Blue'],Creature — Bird,,Common
+447054,Heavenly Qilin,GS1,Global Series: Jiang Yanggu and Mu Yanling,{2}{W},['White'],Creature — Kirin,,Common
+447055,Armored Whirl Turtle,GS1,Global Series: Jiang Yanggu and Mu Yanling,{2}{U},['Blue'],Creature — Turtle,,Common
+447056,Nine-Tail White Fox,GS1,Global Series: Jiang Yanggu and Mu Yanling,{2}{U},['Blue'],Creature — Fox Spirit,,Common
+447057,Earth-Origin Yak,GS1,Global Series: Jiang Yanggu and Mu Yanling,{3}{W},['White'],Creature — Ox,,Common
+447058,Moon-Eating Dog,GS1,Global Series: Jiang Yanggu and Mu Yanling,{3}{U},['Blue'],Creature — Hound,,Uncommon
+447059,Stormcloud Spirit,GS1,Global Series: Jiang Yanggu and Mu Yanling,{3}{U}{U},['Blue'],Creature — Spirit,,Uncommon
+447060,Ancestor Dragon,GS1,Global Series: Jiang Yanggu and Mu Yanling,{4}{W}{W},['White'],Creature — Dragon,,Rare
+447061,Cloak of Mists,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{U},['Blue'],Enchantment — Aura,,Common
+447062,Qilin's Blessing,GS1,Global Series: Jiang Yanggu and Mu Yanling,{W},['White'],Instant,,Common
+447063,Drown in Shapelessness,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{U},['Blue'],Instant,,Common
+447064,Dragon's Presence,GS1,Global Series: Jiang Yanggu and Mu Yanling,{2}{W},['White'],Instant,,Common
+447065,Brilliant Plan,GS1,Global Series: Jiang Yanggu and Mu Yanling,{4}{U},['Blue'],Sorcery,,Uncommon
+447066,Rhythmic Water Vortex,GS1,Global Series: Jiang Yanggu and Mu Yanling,{3}{U}{U},['Blue'],Sorcery,,Rare
+447067,Meandering River,GS1,Global Series: Jiang Yanggu and Mu Yanling,,,Land,,Common
+447068,Plains,GS1,Global Series: Jiang Yanggu and Mu Yanling,,,Basic Land — Plains,['Basic'],Basic Land
+447069,Island,GS1,Global Series: Jiang Yanggu and Mu Yanling,,,Basic Land — Island,['Basic'],Basic Land
+447070,Jiang Yanggu,GS1,Global Series: Jiang Yanggu and Mu Yanling,{4}{G},['Green'],Legendary Planeswalker — Yanggu,['Legendary'],Mythic Rare
+447071,Leopard-Spotted Jiao,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{R},['Red'],Creature — Beast,,Common
+447072,Feiyi Snake,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{G},['Green'],Creature — Snake,,Common
+447073,Sacred White Deer,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{G},['Green'],Creature — Elk,,Uncommon
+447074,Reckless Pangolin,GS1,Global Series: Jiang Yanggu and Mu Yanling,{2}{G},['Green'],Creature — Pangolin,,Common
+447075,Giant Spider,GS1,Global Series: Jiang Yanggu and Mu Yanling,{3}{G},['Green'],Creature — Spider,,Common
+447076,Ferocious Zheng,GS1,Global Series: Jiang Yanggu and Mu Yanling,{2}{G}{G},['Green'],Creature — Cat Beast,,Common
+447077,Fire-Omen Crane,GS1,Global Series: Jiang Yanggu and Mu Yanling,{3}{R}{R},['Red'],Creature — Bird Spirit,,Uncommon
+447078,Screeching Phoenix,GS1,Global Series: Jiang Yanggu and Mu Yanling,{4}{R}{R},['Red'],Creature — Phoenix,,Rare
+447079,Earthshaking Si,GS1,Global Series: Jiang Yanggu and Mu Yanling,{5}{G},['Green'],Creature — Beast,,Common
+447080,Hardened-Scale Armor,GS1,Global Series: Jiang Yanggu and Mu Yanling,{2}{G},['Green'],Enchantment — Aura,,Common
+447081,Breath of Fire,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{R},['Red'],Instant,,Common
+447082,Aggressive Instinct,GS1,Global Series: Jiang Yanggu and Mu Yanling,{1}{G},['Green'],Sorcery,,Common
+447083,Confidence from Strength,GS1,Global Series: Jiang Yanggu and Mu Yanling,{2}{G},['Green'],Sorcery,,Common
+447084,Journey for the Elixir,GS1,Global Series: Jiang Yanggu and Mu Yanling,{2}{G},['Green'],Sorcery,,Rare
+447085,Cleansing Screech,GS1,Global Series: Jiang Yanggu and Mu Yanling,{4}{R},['Red'],Sorcery,,Common
+447086,Timber Gorge,GS1,Global Series: Jiang Yanggu and Mu Yanling,,,Land,,Common
+447087,Mountain,GS1,Global Series: Jiang Yanggu and Mu Yanling,,,Basic Land — Mountain,['Basic'],Basic Land
+447088,Forest,GS1,Global Series: Jiang Yanggu and Mu Yanling,,,Basic Land — Forest,['Basic'],Basic Land
+447137,Aegis of the Heavens,M19,Core Set 2019,{1}{W},['White'],Instant,,Uncommon
+447138,Aethershield Artificer,M19,Core Set 2019,{3}{W},['White'],Creature — Dwarf Artificer,,Uncommon
+447139,"Ajani, Adversary of Tyrants",M19,Core Set 2019,{2}{W}{W},['White'],Legendary Planeswalker — Ajani,['Legendary'],Mythic Rare
+447140,Ajani's Last Stand,M19,Core Set 2019,{2}{W}{W},['White'],Enchantment,,Rare
+447141,Ajani's Pridemate,M19,Core Set 2019,{1}{W},['White'],Creature — Cat Soldier,,Uncommon
+447142,Ajani's Welcome,M19,Core Set 2019,{W},['White'],Enchantment,,Uncommon
+447143,Angel of the Dawn,M19,Core Set 2019,{4}{W},['White'],Creature — Angel,,Common
+447144,Cavalry Drillmaster,M19,Core Set 2019,{1}{W},['White'],Creature — Human Knight,,Common
+447145,Cleansing Nova,M19,Core Set 2019,{3}{W}{W},['White'],Sorcery,,Rare
+447146,Daybreak Chaplain,M19,Core Set 2019,{1}{W},['White'],Creature — Human Cleric,,Common
+447147,Dwarven Priest,M19,Core Set 2019,{3}{W},['White'],Creature — Dwarf Cleric,,Common
+447148,Gallant Cavalry,M19,Core Set 2019,{3}{W},['White'],Creature — Human Knight,,Common
+447149,Herald of Faith,M19,Core Set 2019,{3}{W}{W},['White'],Creature — Angel,,Uncommon
+447150,Hieromancer's Cage,M19,Core Set 2019,{3}{W},['White'],Enchantment,,Uncommon
+447151,Inspired Charge,M19,Core Set 2019,{2}{W}{W},['White'],Instant,,Common
+447152,Invoke the Divine,M19,Core Set 2019,{2}{W},['White'],Instant,,Common
+447153,Isolate,M19,Core Set 2019,{W},['White'],Instant,,Rare
+447154,Knight of the Tusk,M19,Core Set 2019,{4}{W}{W},['White'],Creature — Human Knight,,Common
+447155,Knight's Pledge,M19,Core Set 2019,{1}{W},['White'],Enchantment — Aura,,Common
+447156,Knightly Valor,M19,Core Set 2019,{4}{W},['White'],Enchantment — Aura,,Uncommon
+447157,"Lena, Selfless Champion",M19,Core Set 2019,{4}{W}{W},['White'],Legendary Creature — Human Knight,['Legendary'],Rare
+447158,Leonin Vanguard,M19,Core Set 2019,{W},['White'],Creature — Cat Soldier,,Uncommon
+447159,Leonin Warleader,M19,Core Set 2019,{2}{W}{W},['White'],Creature — Cat Soldier,,Rare
+447160,Loxodon Line Breaker,M19,Core Set 2019,{2}{W},['White'],Creature — Elephant Soldier,,Common
+447161,Luminous Bonds,M19,Core Set 2019,{2}{W},['White'],Enchantment — Aura,,Common
+447162,Make a Stand,M19,Core Set 2019,{2}{W},['White'],Instant,,Uncommon
+447163,Mentor of the Meek,M19,Core Set 2019,{2}{W},['White'],Creature — Human Soldier,,Rare
+447164,Mighty Leap,M19,Core Set 2019,{1}{W},['White'],Instant,,Common
+447165,Militia Bugler,M19,Core Set 2019,{2}{W},['White'],Creature — Human Soldier,,Uncommon
+447166,Novice Knight,M19,Core Set 2019,{W},['White'],Creature — Human Knight,,Uncommon
+447167,Oreskos Swiftclaw,M19,Core Set 2019,{1}{W},['White'],Creature — Cat Warrior,,Common
+447168,Pegasus Courser,M19,Core Set 2019,{2}{W},['White'],Creature — Pegasus,,Common
+447169,Remorseful Cleric,M19,Core Set 2019,{1}{W},['White'],Creature — Spirit Cleric,,Rare
+447170,Resplendent Angel,M19,Core Set 2019,{1}{W}{W},['White'],Creature — Angel,,Mythic Rare
+447171,Revitalize,M19,Core Set 2019,{1}{W},['White'],Instant,,Common
+447172,Rustwing Falcon,M19,Core Set 2019,{W},['White'],Creature — Bird,,Common
+447173,Shield Mare,M19,Core Set 2019,{1}{W}{W},['White'],Creature — Horse,,Uncommon
+447174,Star-Crowned Stag,M19,Core Set 2019,{3}{W},['White'],Creature — Elk,,Common
+447175,Suncleanser,M19,Core Set 2019,{1}{W},['White'],Creature — Human Cleric,,Rare
+447176,Take Vengeance,M19,Core Set 2019,{1}{W},['White'],Sorcery,,Common
+447177,Trusty Packbeast,M19,Core Set 2019,{2}{W},['White'],Creature — Beast,,Common
+447178,Valiant Knight,M19,Core Set 2019,{3}{W},['White'],Creature — Human Knight,,Rare
+447179,Aether Tunnel,M19,Core Set 2019,{1}{U},['Blue'],Enchantment — Aura,,Uncommon
+447180,Anticipate,M19,Core Set 2019,{1}{U},['Blue'],Instant,,Common
+447181,Aven Wind Mage,M19,Core Set 2019,{2}{U},['Blue'],Creature — Bird Wizard,,Common
+447182,Aviation Pioneer,M19,Core Set 2019,{2}{U},['Blue'],Creature — Human Artificer,,Common
+447183,Bone to Ash,M19,Core Set 2019,{2}{U}{U},['Blue'],Instant,,Uncommon
+447184,Cancel,M19,Core Set 2019,{1}{U}{U},['Blue'],Instant,,Common
+447185,Departed Deckhand,M19,Core Set 2019,{1}{U},['Blue'],Creature — Spirit Pirate,,Uncommon
+447186,Disperse,M19,Core Set 2019,{1}{U},['Blue'],Instant,,Common
+447187,Divination,M19,Core Set 2019,{2}{U},['Blue'],Sorcery,,Common
+447188,Djinn of Wishes,M19,Core Set 2019,{3}{U}{U},['Blue'],Creature — Djinn,,Rare
+447189,Dwindle,M19,Core Set 2019,{2}{U},['Blue'],Enchantment — Aura,,Common
+447190,Essence Scatter,M19,Core Set 2019,{1}{U},['Blue'],Instant,,Common
+447191,Exclusion Mage,M19,Core Set 2019,{2}{U},['Blue'],Creature — Human Wizard,,Uncommon
+447192,Frilled Sea Serpent,M19,Core Set 2019,{4}{U}{U},['Blue'],Creature — Serpent,,Common
+447193,Gearsmith Prodigy,M19,Core Set 2019,{U},['Blue'],Creature — Human Artificer,,Common
+447194,Ghostform,M19,Core Set 2019,{1}{U},['Blue'],Sorcery,,Common
+447195,Horizon Scholar,M19,Core Set 2019,{5}{U},['Blue'],Creature — Sphinx,,Uncommon
+447196,Metamorphic Alteration,M19,Core Set 2019,{1}{U},['Blue'],Enchantment — Aura,,Rare
+447197,Mirror Image,M19,Core Set 2019,{2}{U},['Blue'],Creature — Shapeshifter,,Uncommon
+447198,Mistcaller,M19,Core Set 2019,{U},['Blue'],Creature — Merfolk Wizard,,Rare
+447199,Mystic Archaeologist,M19,Core Set 2019,{1}{U},['Blue'],Creature — Human Wizard,,Rare
+447200,Omenspeaker,M19,Core Set 2019,{1}{U},['Blue'],Creature — Human Wizard,,Common
+447201,Omniscience,M19,Core Set 2019,{7}{U}{U}{U},['Blue'],Enchantment,,Mythic Rare
+447202,One with the Machine,M19,Core Set 2019,{3}{U},['Blue'],Sorcery,,Rare
+447203,Patient Rebuilding,M19,Core Set 2019,{3}{U}{U},['Blue'],Enchantment,,Rare
+447204,Psychic Corrosion,M19,Core Set 2019,{2}{U},['Blue'],Enchantment,,Uncommon
+447205,"Sai, Master Thopterist",M19,Core Set 2019,{2}{U},['Blue'],Legendary Creature — Human Artificer,['Legendary'],Rare
+447206,Salvager of Secrets,M19,Core Set 2019,{3}{U}{U},['Blue'],Creature — Merfolk Wizard,,Common
+447207,Scholar of Stars,M19,Core Set 2019,{3}{U},['Blue'],Creature — Human Artificer,,Common
+447208,Sift,M19,Core Set 2019,{3}{U},['Blue'],Sorcery,,Uncommon
+447209,Skilled Animator,M19,Core Set 2019,{2}{U},['Blue'],Creature — Human Artificer,,Uncommon
+447210,Sleep,M19,Core Set 2019,{2}{U}{U},['Blue'],Sorcery,,Uncommon
+447211,Snapping Drake,M19,Core Set 2019,{3}{U},['Blue'],Creature — Drake,,Common
+447212,Supreme Phantom,M19,Core Set 2019,{1}{U},['Blue'],Creature — Spirit,,Rare
+447213,Surge Mare,M19,Core Set 2019,{U}{U},['Blue'],Creature — Horse Fish,,Uncommon
+447214,Switcheroo,M19,Core Set 2019,{4}{U},['Blue'],Sorcery,,Uncommon
+447215,"Tezzeret, Artifice Master",M19,Core Set 2019,{3}{U}{U},['Blue'],Legendary Planeswalker — Tezzeret,['Legendary'],Mythic Rare
+447216,Tolarian Scholar,M19,Core Set 2019,{2}{U},['Blue'],Creature — Human Wizard,,Common
+447217,Totally Lost,M19,Core Set 2019,{4}{U},['Blue'],Instant,,Common
+447218,Uncomfortable Chill,M19,Core Set 2019,{2}{U},['Blue'],Instant,,Common
+447219,Wall of Mist,M19,Core Set 2019,{1}{U},['Blue'],Creature — Wall,,Common
+447220,Windreader Sphinx,M19,Core Set 2019,{5}{U}{U},['Blue'],Creature — Sphinx,,Rare
+447221,Abnormal Endurance,M19,Core Set 2019,{1}{B},['Black'],Instant,,Common
+447222,Blood Divination,M19,Core Set 2019,{3}{B},['Black'],Sorcery,,Uncommon
+447223,Bogstomper,M19,Core Set 2019,{4}{B}{B},['Black'],Creature — Beast,,Common
+447224,Bone Dragon,M19,Core Set 2019,{3}{B}{B},['Black'],Creature — Dragon Skeleton,,Mythic Rare
+447225,Child of Night,M19,Core Set 2019,{1}{B},['Black'],Creature — Vampire,,Common
+447226,Death Baron,M19,Core Set 2019,{1}{B}{B},['Black'],Creature — Zombie Wizard,,Rare
+447227,Demon of Catastrophes,M19,Core Set 2019,{2}{B}{B},['Black'],Creature — Demon,,Rare
+447228,Diregraf Ghoul,M19,Core Set 2019,{B},['Black'],Creature — Zombie,,Uncommon
+447229,Doomed Dissenter,M19,Core Set 2019,{1}{B},['Black'],Creature — Human,,Common
+447230,Duress,M19,Core Set 2019,{B},['Black'],Sorcery,,Common
+447231,Epicure of Blood,M19,Core Set 2019,{4}{B},['Black'],Creature — Vampire,,Common
+447232,Fell Specter,M19,Core Set 2019,{3}{B},['Black'],Creature — Specter,,Uncommon
+447233,Fraying Omnipotence,M19,Core Set 2019,{3}{B}{B},['Black'],Sorcery,,Rare
+447234,Gravedigger,M19,Core Set 2019,{3}{B},['Black'],Creature — Zombie,,Uncommon
+447235,Graveyard Marshal,M19,Core Set 2019,{B}{B},['Black'],Creature — Zombie Soldier,,Rare
+447236,Hired Blade,M19,Core Set 2019,{2}{B},['Black'],Creature — Human Assassin,,Common
+447237,Infectious Horror,M19,Core Set 2019,{3}{B},['Black'],Creature — Zombie Horror,,Common
+447238,Infernal Reckoning,M19,Core Set 2019,{B},['Black'],Instant,,Rare
+447239,Infernal Scarring,M19,Core Set 2019,{1}{B},['Black'],Enchantment — Aura,,Common
+447240,Isareth the Awakener,M19,Core Set 2019,{1}{B}{B},['Black'],Legendary Creature — Human Wizard,['Legendary'],Rare
+447241,Lich's Caress,M19,Core Set 2019,{3}{B}{B},['Black'],Sorcery,,Common
+447242,"Liliana, Untouched by Death",M19,Core Set 2019,{2}{B}{B},['Black'],Legendary Planeswalker — Liliana,['Legendary'],Mythic Rare
+447243,Liliana's Contract,M19,Core Set 2019,{3}{B}{B},['Black'],Enchantment,,Rare
+447244,Macabre Waltz,M19,Core Set 2019,{1}{B},['Black'],Sorcery,,Common
+447245,Mind Rot,M19,Core Set 2019,{2}{B},['Black'],Sorcery,,Common
+447246,Murder,M19,Core Set 2019,{1}{B}{B},['Black'],Instant,,Uncommon
+447247,Nightmare's Thirst,M19,Core Set 2019,{B},['Black'],Instant,,Uncommon
+447248,Open the Graves,M19,Core Set 2019,{3}{B}{B},['Black'],Enchantment,,Rare
+447249,Phylactery Lich,M19,Core Set 2019,{B}{B}{B},['Black'],Creature — Zombie,,Rare
+447250,Plague Mare,M19,Core Set 2019,{1}{B}{B},['Black'],Creature — Nightmare Horse,,Uncommon
+447251,Ravenous Harpy,M19,Core Set 2019,{2}{B},['Black'],Creature — Harpy,,Uncommon
+447252,Reassembling Skeleton,M19,Core Set 2019,{1}{B},['Black'],Creature — Skeleton Warrior,,Uncommon
+447253,Rise from the Grave,M19,Core Set 2019,{4}{B},['Black'],Sorcery,,Uncommon
+447254,Skeleton Archer,M19,Core Set 2019,{3}{B},['Black'],Creature — Skeleton Archer,,Common
+447255,Skymarch Bloodletter,M19,Core Set 2019,{2}{B},['Black'],Creature — Vampire Soldier,,Common
+447256,Sovereign's Bite,M19,Core Set 2019,{1}{B},['Black'],Sorcery,,Common
+447257,Stitcher's Supplier,M19,Core Set 2019,{B},['Black'],Creature — Zombie,,Uncommon
+447258,Strangling Spores,M19,Core Set 2019,{3}{B},['Black'],Instant,,Common
+447259,Two-Headed Zombie,M19,Core Set 2019,{3}{B},['Black'],Creature — Zombie,,Common
+447260,Vampire Neonate,M19,Core Set 2019,{B},['Black'],Creature — Vampire,,Common
+447261,Vampire Sovereign,M19,Core Set 2019,{3}{B}{B},['Black'],Creature — Vampire,,Uncommon
+447262,Walking Corpse,M19,Core Set 2019,{1}{B},['Black'],Creature — Zombie,,Common
+447263,Act of Treason,M19,Core Set 2019,{2}{R},['Red'],Sorcery,,Common
+447264,Alpine Moon,M19,Core Set 2019,{R},['Red'],Enchantment,,Rare
+447265,Apex of Power,M19,Core Set 2019,{7}{R}{R}{R},['Red'],Sorcery,,Mythic Rare
+447266,Banefire,M19,Core Set 2019,{X}{R},['Red'],Sorcery,,Rare
+447267,Boggart Brute,M19,Core Set 2019,{2}{R},['Red'],Creature — Goblin Warrior,,Common
+447268,Catalyst Elemental,M19,Core Set 2019,{2}{R},['Red'],Creature — Elemental,,Common
+447269,Crash Through,M19,Core Set 2019,{R},['Red'],Sorcery,,Common
+447270,Dark-Dweller Oracle,M19,Core Set 2019,{1}{R},['Red'],Creature — Goblin Shaman,,Rare
+447271,Demanding Dragon,M19,Core Set 2019,{3}{R}{R},['Red'],Creature — Dragon,,Rare
+447272,Dismissive Pyromancer,M19,Core Set 2019,{1}{R},['Red'],Creature — Human Wizard,,Rare
+447273,Doublecast,M19,Core Set 2019,{R}{R},['Red'],Sorcery,,Uncommon
+447274,Dragon Egg,M19,Core Set 2019,{2}{R},['Red'],Creature — Dragon Egg,,Uncommon
+447275,Electrify,M19,Core Set 2019,{3}{R},['Red'],Instant,,Common
+447276,Fiery Finish,M19,Core Set 2019,{4}{R}{R},['Red'],Sorcery,,Uncommon
+447277,Fire Elemental,M19,Core Set 2019,{3}{R}{R},['Red'],Creature — Elemental,,Common
+447278,Goblin Instigator,M19,Core Set 2019,{1}{R},['Red'],Creature — Goblin Rogue,,Common
+447279,Goblin Motivator,M19,Core Set 2019,{R},['Red'],Creature — Goblin Warrior,,Common
+447280,Goblin Trashmaster,M19,Core Set 2019,{2}{R}{R},['Red'],Creature — Goblin Warrior,,Rare
+447281,Guttersnipe,M19,Core Set 2019,{2}{R},['Red'],Creature — Goblin Shaman,,Uncommon
+447282,Havoc Devils,M19,Core Set 2019,{2}{R}{R},['Red'],Creature — Devil,,Common
+447283,Hostile Minotaur,M19,Core Set 2019,{3}{R},['Red'],Creature — Minotaur,,Common
+447284,Inferno Hellion,M19,Core Set 2019,{3}{R},['Red'],Creature — Hellion,,Uncommon
+447285,"Lathliss, Dragon Queen",M19,Core Set 2019,{4}{R}{R},['Red'],Legendary Creature — Dragon,['Legendary'],Rare
+447286,Lava Axe,M19,Core Set 2019,{4}{R},['Red'],Sorcery,,Common
+447287,Lightning Mare,M19,Core Set 2019,{R}{R},['Red'],Creature — Elemental Horse,,Uncommon
+447288,Lightning Strike,M19,Core Set 2019,{1}{R},['Red'],Instant,,Uncommon
+447289,Onakke Ogre,M19,Core Set 2019,{2}{R},['Red'],Creature — Ogre Warrior,,Common
+447290,"Sarkhan, Fireblood",M19,Core Set 2019,{1}{R}{R},['Red'],Legendary Planeswalker — Sarkhan,['Legendary'],Mythic Rare
+447291,Sarkhan's Unsealing,M19,Core Set 2019,{3}{R},['Red'],Enchantment,,Rare
+447292,Shock,M19,Core Set 2019,{R},['Red'],Instant,,Common
+447293,Siegebreaker Giant,M19,Core Set 2019,{3}{R}{R},['Red'],Creature — Giant Warrior,,Uncommon
+447294,Smelt,M19,Core Set 2019,{R},['Red'],Instant,,Common
+447295,Sparktongue Dragon,M19,Core Set 2019,{3}{R}{R},['Red'],Creature — Dragon,,Common
+447296,Spit Flame,M19,Core Set 2019,{2}{R},['Red'],Instant,,Rare
+447297,Sure Strike,M19,Core Set 2019,{1}{R},['Red'],Instant,,Common
+447298,Tectonic Rift,M19,Core Set 2019,{3}{R},['Red'],Sorcery,,Uncommon
+447299,Thud,M19,Core Set 2019,{R},['Red'],Sorcery,,Uncommon
+447300,Tormenting Voice,M19,Core Set 2019,{1}{R},['Red'],Sorcery,,Common
+447301,Trumpet Blast,M19,Core Set 2019,{2}{R},['Red'],Instant,,Common
+447302,Viashino Pyromancer,M19,Core Set 2019,{1}{R},['Red'],Creature — Viashino Wizard,,Common
+447303,Volcanic Dragon,M19,Core Set 2019,{4}{R}{R},['Red'],Creature — Dragon,,Uncommon
+447304,Volley Veteran,M19,Core Set 2019,{3}{R},['Red'],Creature — Goblin Warrior,,Uncommon
+447305,Blanchwood Armor,M19,Core Set 2019,{2}{G},['Green'],Enchantment — Aura,,Uncommon
+447306,Bristling Boar,M19,Core Set 2019,{3}{G},['Green'],Creature — Boar,,Common
+447307,Centaur Courser,M19,Core Set 2019,{2}{G},['Green'],Creature — Centaur Warrior,,Common
+447308,Colossal Dreadmaw,M19,Core Set 2019,{4}{G}{G},['Green'],Creature — Dinosaur,,Common
+447309,Colossal Majesty,M19,Core Set 2019,{2}{G},['Green'],Enchantment,,Uncommon
+447310,Daggerback Basilisk,M19,Core Set 2019,{2}{G},['Green'],Creature — Basilisk,,Common
+447311,Declare Dominance,M19,Core Set 2019,{3}{G}{G},['Green'],Sorcery,,Uncommon
+447312,Druid of Horns,M19,Core Set 2019,{3}{G},['Green'],Creature — Human Druid,,Uncommon
+447313,Druid of the Cowl,M19,Core Set 2019,{1}{G},['Green'],Creature — Elf Druid,,Common
+447314,Dryad Greenseeker,M19,Core Set 2019,{1}{G},['Green'],Creature — Dryad,,Uncommon
+447315,Elvish Clancaller,M19,Core Set 2019,{G}{G},['Green'],Creature — Elf Druid,,Rare
+447316,Elvish Rejuvenator,M19,Core Set 2019,{2}{G},['Green'],Creature — Elf Druid,,Common
+447317,Ghastbark Twins,M19,Core Set 2019,{5}{G}{G},['Green'],Creature — Treefolk,,Uncommon
+447318,Ghirapur Guide,M19,Core Set 2019,{2}{G},['Green'],Creature — Elf Scout,,Uncommon
+447319,Giant Spider,M19,Core Set 2019,{3}{G},['Green'],Creature — Spider,,Common
+447320,Gift of Paradise,M19,Core Set 2019,{2}{G},['Green'],Enchantment — Aura,,Uncommon
+447321,Gigantosaurus,M19,Core Set 2019,{G}{G}{G}{G}{G},['Green'],Creature — Dinosaur,,Rare
+447322,"Goreclaw, Terror of Qal Sisma",M19,Core Set 2019,{3}{G},['Green'],Legendary Creature — Bear,['Legendary'],Rare
+447323,Greenwood Sentinel,M19,Core Set 2019,{1}{G},['Green'],Creature — Elf Scout,,Common
+447324,Highland Game,M19,Core Set 2019,{1}{G},['Green'],Creature — Elk,,Common
+447325,Hungering Hydra,M19,Core Set 2019,{X}{G},['Green'],Creature — Hydra,,Rare
+447326,Naturalize,M19,Core Set 2019,{1}{G},['Green'],Instant,,Common
+447327,Oakenform,M19,Core Set 2019,{2}{G},['Green'],Enchantment — Aura,,Common
+447328,Pelakka Wurm,M19,Core Set 2019,{4}{G}{G}{G},['Green'],Creature — Wurm,,Rare
+447329,Plummet,M19,Core Set 2019,{1}{G},['Green'],Instant,,Common
+447330,Prodigious Growth,M19,Core Set 2019,{4}{G}{G},['Green'],Enchantment — Aura,,Rare
+447331,Rabid Bite,M19,Core Set 2019,{1}{G},['Green'],Sorcery,,Common
+447332,Reclamation Sage,M19,Core Set 2019,{2}{G},['Green'],Creature — Elf Shaman,,Uncommon
+447333,Recollect,M19,Core Set 2019,{2}{G},['Green'],Sorcery,,Uncommon
+447334,Rhox Oracle,M19,Core Set 2019,{4}{G},['Green'],Creature — Rhino Monk,,Common
+447335,Root Snare,M19,Core Set 2019,{1}{G},['Green'],Instant,,Common
+447336,Runic Armasaur,M19,Core Set 2019,{1}{G}{G},['Green'],Creature — Dinosaur,,Rare
+447337,Scapeshift,M19,Core Set 2019,{2}{G}{G},['Green'],Sorcery,,Mythic Rare
+447338,Talons of Wildwood,M19,Core Set 2019,{1}{G},['Green'],Enchantment — Aura,,Common
+447339,Thorn Lieutenant,M19,Core Set 2019,{1}{G},['Green'],Creature — Elf Warrior,,Rare
+447340,Thornhide Wolves,M19,Core Set 2019,{4}{G},['Green'],Creature — Wolf,,Common
+447341,Titanic Growth,M19,Core Set 2019,{1}{G},['Green'],Instant,,Common
+447342,Vigilant Baloth,M19,Core Set 2019,{3}{G}{G},['Green'],Creature — Beast,,Uncommon
+447343,Vine Mare,M19,Core Set 2019,{2}{G}{G},['Green'],Creature — Elemental Horse,,Uncommon
+447344,Vivien Reid,M19,Core Set 2019,{3}{G}{G},['Green'],Legendary Planeswalker — Vivien,['Legendary'],Mythic Rare
+447345,Vivien's Invocation,M19,Core Set 2019,{5}{G}{G},['Green'],Sorcery,,Rare
+447346,Wall of Vines,M19,Core Set 2019,{G},['Green'],Creature — Plant Wall,,Common
+447347,Aerial Engineer,M19,Core Set 2019,{2}{W}{U},"['White', 'Blue']",Creature — Human Artificer,,Uncommon
+447348,"Arcades, the Strategist",M19,Core Set 2019,{1}{G}{W}{U},"['White', 'Blue', 'Green']",Legendary Creature — Elder Dragon,['Legendary'],Mythic Rare
+447349,Brawl-Bash Ogre,M19,Core Set 2019,{2}{B}{R},"['Black', 'Red']",Creature — Ogre Warrior,,Uncommon
+447350,"Chromium, the Mutable",M19,Core Set 2019,{4}{W}{U}{B},"['White', 'Blue', 'Black']",Legendary Creature — Elder Dragon,['Legendary'],Mythic Rare
+447351,Draconic Disciple,M19,Core Set 2019,{1}{R}{G},"['Red', 'Green']",Creature — Human Shaman,,Uncommon
+447352,Enigma Drake,M19,Core Set 2019,{1}{U}{R},"['Blue', 'Red']",Creature — Drake,,Uncommon
+447353,Heroic Reinforcements,M19,Core Set 2019,{2}{R}{W},"['White', 'Red']",Sorcery,,Uncommon
+447354,"Nicol Bolas, the Ravager",M19,Core Set 2019,{1}{U}{B}{R},"['Blue', 'Black', 'Red']",Legendary Creature — Elder Dragon,['Legendary'],Mythic Rare
+447355,"Nicol Bolas, the Arisen",M19,Core Set 2019,,"['Blue', 'Black', 'Red']",Legendary Planeswalker — Bolas,['Legendary'],Mythic Rare
+447356,"Palladia-Mors, the Ruiner",M19,Core Set 2019,{3}{R}{G}{W},"['White', 'Red', 'Green']",Legendary Creature — Elder Dragon,['Legendary'],Mythic Rare
+447357,Poison-Tip Archer,M19,Core Set 2019,{2}{B}{G},"['Black', 'Green']",Creature — Elf Archer,,Uncommon
+447358,Psychic Symbiont,M19,Core Set 2019,{4}{U}{B},"['Blue', 'Black']",Creature — Nightmare Horror,,Uncommon
+447359,Regal Bloodlord,M19,Core Set 2019,{3}{W}{B},"['White', 'Black']",Creature — Vampire Soldier,,Uncommon
+447360,Satyr Enchanter,M19,Core Set 2019,{1}{G}{W},"['White', 'Green']",Creature — Satyr Druid,,Uncommon
+447361,Skyrider Patrol,M19,Core Set 2019,{2}{G}{U},"['Blue', 'Green']",Creature — Elf Scout,,Uncommon
+447362,"Vaevictis Asmadi, the Dire",M19,Core Set 2019,{3}{B}{R}{G},"['Black', 'Red', 'Green']",Legendary Creature — Elder Dragon,['Legendary'],Mythic Rare
+447363,Amulet of Safekeeping,M19,Core Set 2019,{2},,Artifact,,Rare
+447364,Arcane Encyclopedia,M19,Core Set 2019,{3},,Artifact,,Uncommon
+447365,Chaos Wand,M19,Core Set 2019,{3},,Artifact,,Rare
+447366,Crucible of Worlds,M19,Core Set 2019,{3},,Artifact,,Mythic Rare
+447367,Desecrated Tomb,M19,Core Set 2019,{3},,Artifact,,Rare
+447368,Diamond Mare,M19,Core Set 2019,{2},,Artifact Creature — Horse,,Uncommon
+447369,Dragon's Hoard,M19,Core Set 2019,{3},,Artifact,,Rare
+447370,Explosive Apparatus,M19,Core Set 2019,{1},,Artifact,,Common
+447371,Field Creeper,M19,Core Set 2019,{2},,Artifact Creature — Scarecrow,,Common
+447372,Fountain of Renewal,M19,Core Set 2019,{1},,Artifact,,Uncommon
+447373,Gargoyle Sentinel,M19,Core Set 2019,{3},,Artifact Creature — Gargoyle,,Uncommon
+447374,Gearsmith Guardian,M19,Core Set 2019,{5},,Artifact Creature — Construct,,Common
+447375,Magistrate's Scepter,M19,Core Set 2019,{3},,Artifact,,Rare
+447376,Manalith,M19,Core Set 2019,{3},,Artifact,,Common
+447377,Marauder's Axe,M19,Core Set 2019,{2},,Artifact — Equipment,,Common
+447378,Meteor Golem,M19,Core Set 2019,{7},,Artifact Creature — Golem,,Uncommon
+447379,Millstone,M19,Core Set 2019,{2},,Artifact,,Uncommon
+447380,Rogue's Gloves,M19,Core Set 2019,{2},,Artifact — Equipment,,Uncommon
+447381,Sigiled Sword of Valeron,M19,Core Set 2019,{3},,Artifact — Equipment,,Rare
+447382,Skyscanner,M19,Core Set 2019,{3},,Artifact Creature — Thopter,,Common
+447383,Suspicious Bookcase,M19,Core Set 2019,{2},,Artifact Creature — Wall,,Uncommon
+447384,Transmogrifying Wand,M19,Core Set 2019,{3},,Artifact,,Rare
+447385,Cinder Barrens,M19,Core Set 2019,,,Land,,Common
+447386,Detection Tower,M19,Core Set 2019,,,Land,,Rare
+447387,Forsaken Sanctuary,M19,Core Set 2019,,,Land,,Common
+447388,Foul Orchard,M19,Core Set 2019,,,Land,,Common
+447389,Highland Lake,M19,Core Set 2019,,,Land,,Common
+447390,Meandering River,M19,Core Set 2019,,,Land,,Common
+447391,Reliquary Tower,M19,Core Set 2019,,,Land,,Uncommon
+447392,Rupture Spire,M19,Core Set 2019,,,Land,,Uncommon
+447393,Stone Quarry,M19,Core Set 2019,,,Land,,Common
+447394,Submerged Boneyard,M19,Core Set 2019,,,Land,,Common
+447395,Timber Gorge,M19,Core Set 2019,,,Land,,Common
+447396,Tranquil Expanse,M19,Core Set 2019,,,Land,,Common
+447397,Woodland Stream,M19,Core Set 2019,,,Land,,Common
+447398,Plains,M19,Core Set 2019,,,Basic Land — Plains,['Basic'],Basic Land
+447399,Plains,M19,Core Set 2019,,,Basic Land — Plains,['Basic'],Basic Land
+447400,Plains,M19,Core Set 2019,,,Basic Land — Plains,['Basic'],Basic Land
+447401,Plains,M19,Core Set 2019,,,Basic Land — Plains,['Basic'],Basic Land
+447402,Island,M19,Core Set 2019,,,Basic Land — Island,['Basic'],Basic Land
+447403,Island,M19,Core Set 2019,,,Basic Land — Island,['Basic'],Basic Land
+447404,Island,M19,Core Set 2019,,,Basic Land — Island,['Basic'],Basic Land
+447405,Island,M19,Core Set 2019,,,Basic Land — Island,['Basic'],Basic Land
+447406,Swamp,M19,Core Set 2019,,,Basic Land — Swamp,['Basic'],Basic Land
+447407,Swamp,M19,Core Set 2019,,,Basic Land — Swamp,['Basic'],Basic Land
+447408,Swamp,M19,Core Set 2019,,,Basic Land — Swamp,['Basic'],Basic Land
+447409,Swamp,M19,Core Set 2019,,,Basic Land — Swamp,['Basic'],Basic Land
+447410,Mountain,M19,Core Set 2019,,,Basic Land — Mountain,['Basic'],Basic Land
+447411,Mountain,M19,Core Set 2019,,,Basic Land — Mountain,['Basic'],Basic Land
+447412,Mountain,M19,Core Set 2019,,,Basic Land — Mountain,['Basic'],Basic Land
+447413,Mountain,M19,Core Set 2019,,,Basic Land — Mountain,['Basic'],Basic Land
+447414,Forest,M19,Core Set 2019,,,Basic Land — Forest,['Basic'],Basic Land
+447415,Forest,M19,Core Set 2019,,,Basic Land — Forest,['Basic'],Basic Land
+447416,Forest,M19,Core Set 2019,,,Basic Land — Forest,['Basic'],Basic Land
+447417,Forest,M19,Core Set 2019,,,Basic Land — Forest,['Basic'],Basic Land
+450228,"Ajani, Wise Counselor",M19,Core Set 2019,{3}{W}{W},['White'],Legendary Planeswalker — Ajani,['Legendary'],Mythic Rare
+450229,Ajani's Influence,M19,Core Set 2019,{2}{W}{W},['White'],Sorcery,,Rare
+450230,Court Cleric,M19,Core Set 2019,{W},['White'],Creature — Human Cleric,,Uncommon
+450231,Serra's Guardian,M19,Core Set 2019,{4}{W}{W},['White'],Creature — Angel,,Rare
+450232,Silverbeak Griffin,M19,Core Set 2019,{W}{W},['White'],Creature — Griffin,,Common
+450233,"Tezzeret, Cruel Machinist",M19,Core Set 2019,{4}{U}{U},['Blue'],Legendary Planeswalker — Tezzeret,['Legendary'],Mythic Rare
+450234,Riddlemaster Sphinx,M19,Core Set 2019,{4}{U}{U},['Blue'],Creature — Sphinx,,Rare
+450235,Pendulum of Patterns,M19,Core Set 2019,{2},,Artifact,,Common
+450236,Tezzeret's Gatebreaker,M19,Core Set 2019,{4},,Artifact,,Rare
+450237,Tezzeret's Strider,M19,Core Set 2019,{3},,Artifact Creature — Golem,,Uncommon
+450238,"Liliana, the Necromancer",M19,Core Set 2019,{3}{B}{B},['Black'],Legendary Planeswalker — Liliana,['Legendary'],Mythic Rare
+450239,Arisen Gorgon,M19,Core Set 2019,{1}{B}{B},['Black'],Creature — Zombie Gorgon,,Uncommon
+450240,Gravewaker,M19,Core Set 2019,{4}{B}{B},['Black'],Creature — Bird Spirit,,Rare
+450241,Liliana's Spoils,M19,Core Set 2019,{3}{B},['Black'],Sorcery,,Rare
+450242,Tattered Mummy,M19,Core Set 2019,{1}{B},['Black'],Creature — Zombie Jackal,,Common
+450243,"Sarkhan, Dragonsoul",M19,Core Set 2019,{4}{R}{R},['Red'],Legendary Planeswalker — Sarkhan,['Legendary'],Mythic Rare
+450244,Kargan Dragonrider,M19,Core Set 2019,{1}{R},['Red'],Creature — Human Warrior,,Common
+450245,Sarkhan's Dragonfire,M19,Core Set 2019,{3}{R}{R},['Red'],Sorcery,,Rare
+450246,Sarkhan's Whelp,M19,Core Set 2019,{2}{R},['Red'],Creature — Dragon,,Uncommon
+450247,Shivan Dragon,M19,Core Set 2019,{4}{R}{R},['Red'],Creature — Dragon,,Rare
+450248,Vivien of the Arkbow,M19,Core Set 2019,{4}{G}{G},['Green'],Legendary Planeswalker — Vivien,['Legendary'],Mythic Rare
+450249,Aggressive Mammoth,M19,Core Set 2019,{3}{G}{G}{G},['Green'],Creature — Elephant,,Rare
+450250,Skalla Wolf,M19,Core Set 2019,{3}{G}{G},['Green'],Creature — Wolf Spirit,,Rare
+450251,Ursine Champion,M19,Core Set 2019,{1}{G},['Green'],Creature — Human Berserker,,Common
+450252,Vivien's Jaguar,M19,Core Set 2019,{2}{G},['Green'],Creature — Cat Spirit,,Uncommon
+450253,Nexus of Fate,M19,Core Set 2019,{5}{U}{U},['Blue'],Instant,,Mythic Rare
+450254,Sun Sentinel,M19,Core Set 2019,{1}{W},['White'],Creature — Human Soldier,,Common
+450255,Air Elemental,M19,Core Set 2019,{3}{U}{U},['Blue'],Creature — Elemental,,Uncommon
+450256,Befuddle,M19,Core Set 2019,{2}{U},['Blue'],Instant,,Common
+450257,Mist-Cloaked Herald,M19,Core Set 2019,{U},['Blue'],Creature — Merfolk Warrior,,Common
+450258,Waterknot,M19,Core Set 2019,{1}{U}{U},['Blue'],Enchantment — Aura,,Common
+450259,Grasping Scoundrel,M19,Core Set 2019,{B},['Black'],Creature — Human Pirate,,Common
+450260,Radiating Lightning,M19,Core Set 2019,{3}{R},['Red'],Instant,,Common
+450261,Llanowar Elves,M19,Core Set 2019,{G},['Green'],Creature — Elf Druid,,Common
+452751,Blade Instructor,GRN,Guilds of Ravnica,{2}{W},['White'],Creature — Human Soldier,,Common
+452752,Bounty Agent,GRN,Guilds of Ravnica,{1}{W},['White'],Creature — Human Soldier,,Rare
+452753,Candlelight Vigil,GRN,Guilds of Ravnica,{3}{W},['White'],Enchantment — Aura,,Common
+452754,Citywide Bust,GRN,Guilds of Ravnica,{1}{W}{W},['White'],Sorcery,,Rare
+452755,Collar the Culprit,GRN,Guilds of Ravnica,{3}{W},['White'],Instant,,Common
+452756,Conclave Tribunal,GRN,Guilds of Ravnica,{3}{W},['White'],Enchantment,,Uncommon
+452757,Crush Contraband,GRN,Guilds of Ravnica,{3}{W},['White'],Instant,,Uncommon
+452758,Dawn of Hope,GRN,Guilds of Ravnica,{1}{W},['White'],Enchantment,,Rare
+452759,Demotion,GRN,Guilds of Ravnica,{W},['White'],Enchantment — Aura,,Uncommon
+452760,Divine Visitation,GRN,Guilds of Ravnica,{3}{W}{W},['White'],Enchantment,,Mythic Rare
+452761,Flight of Equenauts,GRN,Guilds of Ravnica,{7}{W},['White'],Creature — Human Knight,,Uncommon
+452762,Gird for Battle,GRN,Guilds of Ravnica,{W},['White'],Sorcery,,Uncommon
+452763,Haazda Marshal,GRN,Guilds of Ravnica,{W},['White'],Creature — Human Soldier,,Uncommon
+452764,Healer's Hawk,GRN,Guilds of Ravnica,{W},['White'],Creature — Bird,,Common
+452765,Hunted Witness,GRN,Guilds of Ravnica,{W},['White'],Creature — Human,,Common
+452766,Inspiring Unicorn,GRN,Guilds of Ravnica,{2}{W}{W},['White'],Creature — Unicorn,,Uncommon
+452767,Intrusive Packbeast,GRN,Guilds of Ravnica,{4}{W},['White'],Creature — Beast,,Common
+452768,Ledev Guardian,GRN,Guilds of Ravnica,{3}{W},['White'],Creature — Human Knight,,Common
+452769,Light of the Legion,GRN,Guilds of Ravnica,{4}{W}{W},['White'],Creature — Angel,,Rare
+452770,Loxodon Restorer,GRN,Guilds of Ravnica,{4}{W}{W},['White'],Creature — Elephant Cleric,,Common
+452771,Luminous Bonds,GRN,Guilds of Ravnica,{2}{W},['White'],Enchantment — Aura,,Common
+452772,Parhelion Patrol,GRN,Guilds of Ravnica,{3}{W},['White'],Creature — Human Knight,,Common
+452773,Righteous Blow,GRN,Guilds of Ravnica,{W},['White'],Instant,,Common
+452774,Roc Charger,GRN,Guilds of Ravnica,{2}{W},['White'],Creature — Bird,,Uncommon
+452775,Skyline Scout,GRN,Guilds of Ravnica,{1}{W},['White'],Creature — Human Scout,,Common
+452776,Sunhome Stalwart,GRN,Guilds of Ravnica,{1}{W},['White'],Creature — Human Soldier,,Uncommon
+452777,Sworn Companions,GRN,Guilds of Ravnica,{2}{W},['White'],Sorcery,,Common
+452778,Take Heart,GRN,Guilds of Ravnica,{W},['White'],Instant,,Common
+452779,Tenth District Guard,GRN,Guilds of Ravnica,{1}{W},['White'],Creature — Human Soldier,,Common
+452780,Venerated Loxodon,GRN,Guilds of Ravnica,{4}{W},['White'],Creature — Elephant Cleric,,Rare
+452781,Capture Sphere,GRN,Guilds of Ravnica,{3}{U},['Blue'],Enchantment — Aura,,Common
+452782,Chemister's Insight,GRN,Guilds of Ravnica,{3}{U},['Blue'],Instant,,Uncommon
+452783,Citywatch Sphinx,GRN,Guilds of Ravnica,{5}{U},['Blue'],Creature — Sphinx,,Uncommon
+452784,Dazzling Lights,GRN,Guilds of Ravnica,{U},['Blue'],Instant,,Common
+452785,Devious Cover-Up,GRN,Guilds of Ravnica,{2}{U}{U},['Blue'],Instant,,Common
+452786,Dimir Informant,GRN,Guilds of Ravnica,{2}{U},['Blue'],Creature — Human Rogue,,Common
+452787,Disdainful Stroke,GRN,Guilds of Ravnica,{1}{U},['Blue'],Instant,,Common
+452788,Dream Eater,GRN,Guilds of Ravnica,{4}{U}{U},['Blue'],Creature — Nightmare Sphinx,,Mythic Rare
+452789,Drowned Secrets,GRN,Guilds of Ravnica,{1}{U},['Blue'],Enchantment,,Rare
+452790,Enhanced Surveillance,GRN,Guilds of Ravnica,{1}{U},['Blue'],Enchantment,,Uncommon
+452791,Guild Summit,GRN,Guilds of Ravnica,{2}{U},['Blue'],Enchantment,,Uncommon
+452792,Leapfrog,GRN,Guilds of Ravnica,{2}{U},['Blue'],Creature — Frog,,Common
+452793,Maximize Altitude,GRN,Guilds of Ravnica,{U},['Blue'],Sorcery,,Common
+452794,Mission Briefing,GRN,Guilds of Ravnica,{U}{U},['Blue'],Instant,,Rare
+452795,Murmuring Mystic,GRN,Guilds of Ravnica,{3}{U},['Blue'],Creature — Human Wizard,,Uncommon
+452796,Muse Drake,GRN,Guilds of Ravnica,{3}{U},['Blue'],Creature — Drake,,Common
+452797,Narcomoeba,GRN,Guilds of Ravnica,{1}{U},['Blue'],Creature — Illusion,,Rare
+452798,Nightveil Sprite,GRN,Guilds of Ravnica,{1}{U},['Blue'],Creature — Faerie Rogue,,Uncommon
+452799,Omnispell Adept,GRN,Guilds of Ravnica,{4}{U},['Blue'],Creature — Human Wizard,,Rare
+452800,Passwall Adept,GRN,Guilds of Ravnica,{1}{U},['Blue'],Creature — Human Wizard,,Common
+452801,Quasiduplicate,GRN,Guilds of Ravnica,{1}{U}{U},['Blue'],Sorcery,,Rare
+452802,Radical Idea,GRN,Guilds of Ravnica,{1}{U},['Blue'],Instant,,Common
+452803,Selective Snare,GRN,Guilds of Ravnica,{X}{U},['Blue'],Sorcery,,Uncommon
+452804,Sinister Sabotage,GRN,Guilds of Ravnica,{1}{U}{U},['Blue'],Instant,,Uncommon
+452805,Thoughtbound Phantasm,GRN,Guilds of Ravnica,{U},['Blue'],Creature — Spirit,,Uncommon
+452806,Unexplained Disappearance,GRN,Guilds of Ravnica,{1}{U},['Blue'],Instant,,Common
+452807,Vedalken Mesmerist,GRN,Guilds of Ravnica,{1}{U},['Blue'],Creature — Vedalken Wizard,,Common
+452808,Wall of Mist,GRN,Guilds of Ravnica,{1}{U},['Blue'],Creature — Wall,,Common
+452809,Watcher in the Mist,GRN,Guilds of Ravnica,{3}{U}{U},['Blue'],Creature — Spirit,,Common
+452810,Wishcoin Crab,GRN,Guilds of Ravnica,{3}{U},['Blue'],Creature — Crab,,Common
+452811,Barrier of Bones,GRN,Guilds of Ravnica,{B},['Black'],Creature — Skeleton Wall,,Common
+452812,Bartizan Bats,GRN,Guilds of Ravnica,{3}{B},['Black'],Creature — Bat,,Common
+452813,Blood Operative,GRN,Guilds of Ravnica,{1}{B}{B},['Black'],Creature — Vampire Assassin,,Rare
+452814,Burglar Rat,GRN,Guilds of Ravnica,{1}{B},['Black'],Creature — Rat,,Common
+452815,Child of Night,GRN,Guilds of Ravnica,{1}{B},['Black'],Creature — Vampire,,Common
+452816,Creeping Chill,GRN,Guilds of Ravnica,{3}{B},['Black'],Sorcery,,Uncommon
+452817,Dead Weight,GRN,Guilds of Ravnica,{B},['Black'],Enchantment — Aura,,Common
+452818,Deadly Visit,GRN,Guilds of Ravnica,{3}{B}{B},['Black'],Sorcery,,Common
+452819,Doom Whisperer,GRN,Guilds of Ravnica,{3}{B}{B},['Black'],Creature — Nightmare Demon,,Mythic Rare
+452820,Douser of Lights,GRN,Guilds of Ravnica,{4}{B},['Black'],Creature — Horror,,Common
+452821,Gruesome Menagerie,GRN,Guilds of Ravnica,{3}{B}{B},['Black'],Sorcery,,Rare
+452822,Hired Poisoner,GRN,Guilds of Ravnica,{B},['Black'],Creature — Human Assassin,,Common
+452823,Kraul Swarm,GRN,Guilds of Ravnica,{4}{B},['Black'],Creature — Insect Warrior,,Uncommon
+452824,Lotleth Giant,GRN,Guilds of Ravnica,{6}{B},['Black'],Creature — Zombie Giant,,Uncommon
+452825,Mausoleum Secrets,GRN,Guilds of Ravnica,{1}{B},['Black'],Instant,,Rare
+452826,Mephitic Vapors,GRN,Guilds of Ravnica,{2}{B},['Black'],Sorcery,,Common
+452827,Midnight Reaper,GRN,Guilds of Ravnica,{2}{B},['Black'],Creature — Zombie Knight,,Rare
+452828,Moodmark Painter,GRN,Guilds of Ravnica,{2}{B}{B},['Black'],Creature — Human Shaman,,Common
+452829,Necrotic Wound,GRN,Guilds of Ravnica,{B},['Black'],Instant,,Uncommon
+452830,Never Happened,GRN,Guilds of Ravnica,{2}{B},['Black'],Sorcery,,Common
+452831,Pilfering Imp,GRN,Guilds of Ravnica,{B},['Black'],Creature — Imp,,Uncommon
+452832,Plaguecrafter,GRN,Guilds of Ravnica,{2}{B},['Black'],Creature — Human Shaman,,Uncommon
+452833,Price of Fame,GRN,Guilds of Ravnica,{3}{B},['Black'],Instant,,Uncommon
+452834,Ritual of Soot,GRN,Guilds of Ravnica,{2}{B}{B},['Black'],Sorcery,,Rare
+452835,Severed Strands,GRN,Guilds of Ravnica,{1}{B},['Black'],Sorcery,,Common
+452836,Spinal Centipede,GRN,Guilds of Ravnica,{2}{B},['Black'],Creature — Insect,,Common
+452837,Undercity Necrolisk,GRN,Guilds of Ravnica,{3}{B},['Black'],Creature — Zombie Lizard,,Uncommon
+452838,Veiled Shade,GRN,Guilds of Ravnica,{2}{B},['Black'],Creature — Shade,,Common
+452839,Vicious Rumors,GRN,Guilds of Ravnica,{B},['Black'],Sorcery,,Common
+452840,Whispering Snitch,GRN,Guilds of Ravnica,{1}{B},['Black'],Creature — Vampire Rogue,,Uncommon
+452841,Arclight Phoenix,GRN,Guilds of Ravnica,{3}{R},['Red'],Creature — Phoenix,,Mythic Rare
+452842,Barging Sergeant,GRN,Guilds of Ravnica,{4}{R},['Red'],Creature — Minotaur Soldier,,Common
+452843,Book Devourer,GRN,Guilds of Ravnica,{5}{R},['Red'],Creature — Beast,,Uncommon
+452844,Command the Storm,GRN,Guilds of Ravnica,{4}{R},['Red'],Instant,,Common
+452845,Cosmotronic Wave,GRN,Guilds of Ravnica,{3}{R},['Red'],Sorcery,,Common
+452846,Direct Current,GRN,Guilds of Ravnica,{1}{R}{R},['Red'],Sorcery,,Common
+452847,Electrostatic Field,GRN,Guilds of Ravnica,{1}{R},['Red'],Creature — Wall,,Uncommon
+452848,Erratic Cyclops,GRN,Guilds of Ravnica,{3}{R},['Red'],Creature — Cyclops Shaman,,Rare
+452849,Experimental Frenzy,GRN,Guilds of Ravnica,{3}{R},['Red'],Enchantment,,Rare
+452850,Fearless Halberdier,GRN,Guilds of Ravnica,{2}{R},['Red'],Creature — Human Warrior,,Common
+452851,Fire Urchin,GRN,Guilds of Ravnica,{1}{R},['Red'],Creature — Elemental,,Common
+452852,Goblin Banneret,GRN,Guilds of Ravnica,{R},['Red'],Creature — Goblin Soldier,,Uncommon
+452853,Goblin Cratermaker,GRN,Guilds of Ravnica,{1}{R},['Red'],Creature — Goblin Warrior,,Uncommon
+452854,Goblin Locksmith,GRN,Guilds of Ravnica,{1}{R},['Red'],Creature — Goblin Rogue,,Common
+452855,Gravitic Punch,GRN,Guilds of Ravnica,{3}{R},['Red'],Sorcery,,Common
+452856,Hellkite Whelp,GRN,Guilds of Ravnica,{4}{R},['Red'],Creature — Dragon,,Uncommon
+452857,Inescapable Blaze,GRN,Guilds of Ravnica,{4}{R}{R},['Red'],Instant,,Uncommon
+452858,Lava Coil,GRN,Guilds of Ravnica,{1}{R},['Red'],Sorcery,,Uncommon
+452859,Legion Warboss,GRN,Guilds of Ravnica,{2}{R},['Red'],Creature — Goblin Soldier,,Rare
+452860,Maniacal Rage,GRN,Guilds of Ravnica,{1}{R},['Red'],Enchantment — Aura,,Common
+452861,Maximize Velocity,GRN,Guilds of Ravnica,{R},['Red'],Sorcery,,Common
+452862,Ornery Goblin,GRN,Guilds of Ravnica,{1}{R},['Red'],Creature — Goblin Warrior,,Common
+452863,Risk Factor,GRN,Guilds of Ravnica,{2}{R},['Red'],Instant,,Rare
+452864,Rubblebelt Boar,GRN,Guilds of Ravnica,{3}{R},['Red'],Creature — Boar,,Common
+452865,Runaway Steam-Kin,GRN,Guilds of Ravnica,{1}{R},['Red'],Creature — Elemental,,Rare
+452866,Smelt-Ward Minotaur,GRN,Guilds of Ravnica,{2}{R},['Red'],Creature — Minotaur Warrior,,Uncommon
+452867,Street Riot,GRN,Guilds of Ravnica,{4}{R},['Red'],Enchantment,,Uncommon
+452868,Sure Strike,GRN,Guilds of Ravnica,{1}{R},['Red'],Instant,,Common
+452869,Torch Courier,GRN,Guilds of Ravnica,{R},['Red'],Creature — Goblin,,Common
+452870,Wojek Bodyguard,GRN,Guilds of Ravnica,{2}{R},['Red'],Creature — Human Soldier,,Common
+452871,Affectionate Indrik,GRN,Guilds of Ravnica,{5}{G},['Green'],Creature — Beast,,Uncommon
+452872,Arboretum Elemental,GRN,Guilds of Ravnica,{7}{G}{G},['Green'],Creature — Elemental,,Uncommon
+452873,Beast Whisperer,GRN,Guilds of Ravnica,{2}{G}{G},['Green'],Creature — Elf Druid,,Rare
+452874,Bounty of Might,GRN,Guilds of Ravnica,{4}{G}{G},['Green'],Instant,,Rare
+452875,Circuitous Route,GRN,Guilds of Ravnica,{3}{G},['Green'],Sorcery,,Uncommon
+452876,Crushing Canopy,GRN,Guilds of Ravnica,{2}{G},['Green'],Instant,,Common
+452877,Devkarin Dissident,GRN,Guilds of Ravnica,{1}{G},['Green'],Creature — Elf Warrior,,Common
+452878,District Guide,GRN,Guilds of Ravnica,{2}{G},['Green'],Creature — Elf Scout,,Uncommon
+452879,Generous Stray,GRN,Guilds of Ravnica,{2}{G},['Green'],Creature — Cat,,Common
+452880,Golgari Raiders,GRN,Guilds of Ravnica,{3}{G},['Green'],Creature — Elf Warrior,,Uncommon
+452881,Grappling Sundew,GRN,Guilds of Ravnica,{1}{G},['Green'],Creature — Plant,,Uncommon
+452882,Hatchery Spider,GRN,Guilds of Ravnica,{5}{G}{G},['Green'],Creature — Spider,,Rare
+452883,Hitchclaw Recluse,GRN,Guilds of Ravnica,{2}{G},['Green'],Creature — Spider,,Common
+452884,Ironshell Beetle,GRN,Guilds of Ravnica,{1}{G},['Green'],Creature — Insect,,Common
+452885,Kraul Foragers,GRN,Guilds of Ravnica,{4}{G},['Green'],Creature — Insect Scout,,Common
+452886,Kraul Harpooner,GRN,Guilds of Ravnica,{1}{G},['Green'],Creature — Insect Warrior,,Uncommon
+452887,Might of the Masses,GRN,Guilds of Ravnica,{G},['Green'],Instant,,Uncommon
+452888,Nullhide Ferox,GRN,Guilds of Ravnica,{2}{G}{G},['Green'],Creature — Beast,,Mythic Rare
+452889,Pack's Favor,GRN,Guilds of Ravnica,{2}{G},['Green'],Instant,,Common
+452890,Pause for Reflection,GRN,Guilds of Ravnica,{2}{G},['Green'],Instant,,Common
+452891,Pelt Collector,GRN,Guilds of Ravnica,{G},['Green'],Creature — Elf Warrior,,Rare
+452892,Portcullis Vine,GRN,Guilds of Ravnica,{G},['Green'],Creature — Plant Wall,,Common
+452893,Prey Upon,GRN,Guilds of Ravnica,{G},['Green'],Sorcery,,Common
+452894,Siege Wurm,GRN,Guilds of Ravnica,{5}{G}{G},['Green'],Creature — Wurm,,Common
+452895,Sprouting Renewal,GRN,Guilds of Ravnica,{2}{G},['Green'],Sorcery,,Uncommon
+452896,Urban Utopia,GRN,Guilds of Ravnica,{1}{G},['Green'],Enchantment — Aura,,Common
+452897,Vigorspore Wurm,GRN,Guilds of Ravnica,{5}{G},['Green'],Creature — Wurm,,Common
+452898,Vivid Revival,GRN,Guilds of Ravnica,{4}{G},['Green'],Sorcery,,Rare
+452899,Wary Okapi,GRN,Guilds of Ravnica,{2}{G},['Green'],Creature — Antelope,,Common
+452900,Wild Ceratok,GRN,Guilds of Ravnica,{3}{G},['Green'],Creature — Rhino,,Common
+452901,Artful Takedown,GRN,Guilds of Ravnica,{2}{U}{B},"['Blue', 'Black']",Instant,,Common
+452902,Assassin's Trophy,GRN,Guilds of Ravnica,{B}{G},"['Black', 'Green']",Instant,,Rare
+452903,"Aurelia, Exemplar of Justice",GRN,Guilds of Ravnica,{2}{R}{W},"['White', 'Red']",Legendary Creature — Angel,['Legendary'],Mythic Rare
+452904,Beacon Bolt,GRN,Guilds of Ravnica,{1}{U}{R},"['Blue', 'Red']",Sorcery,,Uncommon
+452905,Beamsplitter Mage,GRN,Guilds of Ravnica,{U}{R},"['Blue', 'Red']",Creature — Vedalken Wizard,,Uncommon
+452906,Boros Challenger,GRN,Guilds of Ravnica,{R}{W},"['White', 'Red']",Creature — Human Soldier,,Uncommon
+452907,Camaraderie,GRN,Guilds of Ravnica,{4}{G}{W},"['White', 'Green']",Sorcery,,Rare
+452908,Centaur Peacemaker,GRN,Guilds of Ravnica,{1}{G}{W},"['White', 'Green']",Creature — Centaur Cleric,,Common
+452909,Chance for Glory,GRN,Guilds of Ravnica,{1}{R}{W},"['White', 'Red']",Instant,,Mythic Rare
+452910,Charnel Troll,GRN,Guilds of Ravnica,{1}{B}{G},"['Black', 'Green']",Creature — Troll,,Rare
+452911,Conclave Cavalier,GRN,Guilds of Ravnica,{G}{G}{W}{W},"['White', 'Green']",Creature — Centaur Knight,,Uncommon
+452912,Conclave Guildmage,GRN,Guilds of Ravnica,{G}{W},"['White', 'Green']",Creature — Elf Cleric,,Uncommon
+452913,Crackling Drake,GRN,Guilds of Ravnica,{U}{U}{R}{R},"['Blue', 'Red']",Creature — Drake,,Uncommon
+452914,Darkblade Agent,GRN,Guilds of Ravnica,{1}{U}{B},"['Blue', 'Black']",Creature — Human Assassin,,Common
+452915,Deafening Clarion,GRN,Guilds of Ravnica,{1}{R}{W},"['White', 'Red']",Sorcery,,Rare
+452916,Dimir Spybug,GRN,Guilds of Ravnica,{U}{B},"['Blue', 'Black']",Creature — Insect,,Uncommon
+452917,Disinformation Campaign,GRN,Guilds of Ravnica,{1}{U}{B},"['Blue', 'Black']",Enchantment,,Uncommon
+452918,"Emmara, Soul of the Accord",GRN,Guilds of Ravnica,{G}{W},"['White', 'Green']",Legendary Creature — Elf Cleric,['Legendary'],Rare
+452919,Erstwhile Trooper,GRN,Guilds of Ravnica,{1}{B}{G},"['Black', 'Green']",Creature — Zombie Soldier,,Common
+452920,"Etrata, the Silencer",GRN,Guilds of Ravnica,{2}{U}{B},"['Blue', 'Black']",Legendary Creature — Vampire Assassin,['Legendary'],Rare
+452921,Firemind's Research,GRN,Guilds of Ravnica,{U}{R},"['Blue', 'Red']",Enchantment,,Rare
+452922,Garrison Sergeant,GRN,Guilds of Ravnica,{3}{R}{W},"['White', 'Red']",Creature — Viashino Soldier,,Common
+452923,Glowspore Shaman,GRN,Guilds of Ravnica,{B}{G},"['Black', 'Green']",Creature — Elf Shaman,,Uncommon
+452924,Goblin Electromancer,GRN,Guilds of Ravnica,{U}{R},"['Blue', 'Red']",Creature — Goblin Wizard,,Common
+452925,Golgari Findbroker,GRN,Guilds of Ravnica,{B}{B}{G}{G},"['Black', 'Green']",Creature — Elf Shaman,,Uncommon
+452926,Hammer Dropper,GRN,Guilds of Ravnica,{2}{R}{W},"['White', 'Red']",Creature — Giant Soldier,,Common
+452927,House Guildmage,GRN,Guilds of Ravnica,{U}{B},"['Blue', 'Black']",Creature — Human Wizard,,Uncommon
+452928,Hypothesizzle,GRN,Guilds of Ravnica,{3}{U}{R},"['Blue', 'Red']",Instant,,Common
+452929,Ionize,GRN,Guilds of Ravnica,{1}{U}{R},"['Blue', 'Red']",Instant,,Rare
+452930,"Izoni, Thousand-Eyed",GRN,Guilds of Ravnica,{2}{B}{B}{G}{G},"['Black', 'Green']",Legendary Creature — Elf Shaman,['Legendary'],Rare
+452931,Join Shields,GRN,Guilds of Ravnica,{3}{G}{W},"['White', 'Green']",Instant,,Uncommon
+452932,Justice Strike,GRN,Guilds of Ravnica,{R}{W},"['White', 'Red']",Instant,,Uncommon
+452933,Knight of Autumn,GRN,Guilds of Ravnica,{1}{G}{W},"['White', 'Green']",Creature — Dryad Knight,,Rare
+452934,"Lazav, the Multifarious",GRN,Guilds of Ravnica,{U}{B},"['Blue', 'Black']",Legendary Creature — Shapeshifter,['Legendary'],Mythic Rare
+452935,League Guildmage,GRN,Guilds of Ravnica,{U}{R},"['Blue', 'Red']",Creature — Human Wizard,,Uncommon
+452936,Ledev Champion,GRN,Guilds of Ravnica,{1}{G}{W},"['White', 'Green']",Creature — Elf Knight,,Uncommon
+452937,Legion Guildmage,GRN,Guilds of Ravnica,{R}{W},"['White', 'Red']",Creature — Human Wizard,,Uncommon
+452938,March of the Multitudes,GRN,Guilds of Ravnica,{X}{G}{W}{W},"['White', 'Green']",Instant,,Mythic Rare
+452939,Mnemonic Betrayal,GRN,Guilds of Ravnica,{1}{U}{B},"['Blue', 'Black']",Sorcery,,Mythic Rare
+452940,Molderhulk,GRN,Guilds of Ravnica,{7}{B}{G},"['Black', 'Green']",Creature — Fungus Zombie,,Uncommon
+452941,Nightveil Predator,GRN,Guilds of Ravnica,{U}{U}{B}{B},"['Blue', 'Black']",Creature — Vampire,,Uncommon
+452942,"Niv-Mizzet, Parun",GRN,Guilds of Ravnica,{U}{U}{U}{R}{R}{R},"['Blue', 'Red']",Legendary Creature — Dragon Wizard,['Legendary'],Rare
+452943,Notion Rain,GRN,Guilds of Ravnica,{1}{U}{B},"['Blue', 'Black']",Sorcery,,Common
+452944,Ochran Assassin,GRN,Guilds of Ravnica,{1}{B}{G},"['Black', 'Green']",Creature — Elf Assassin,,Uncommon
+452945,"Ral, Izzet Viceroy",GRN,Guilds of Ravnica,{3}{U}{R},"['Blue', 'Red']",Legendary Planeswalker — Ral,['Legendary'],Mythic Rare
+452946,Rhizome Lurcher,GRN,Guilds of Ravnica,{2}{B}{G},"['Black', 'Green']",Creature — Fungus Zombie,,Common
+452947,Rosemane Centaur,GRN,Guilds of Ravnica,{3}{G}{W},"['White', 'Green']",Creature — Centaur Soldier,,Common
+452948,Skyknight Legionnaire,GRN,Guilds of Ravnica,{1}{R}{W},"['White', 'Red']",Creature — Human Knight,,Common
+452949,Sonic Assault,GRN,Guilds of Ravnica,{1}{U}{R},"['Blue', 'Red']",Instant,,Common
+452950,Sumala Woodshaper,GRN,Guilds of Ravnica,{2}{G}{W},"['White', 'Green']",Creature — Elf Druid,,Common
+452951,Swarm Guildmage,GRN,Guilds of Ravnica,{B}{G},"['Black', 'Green']",Creature — Elf Shaman,,Uncommon
+452952,Swathcutter Giant,GRN,Guilds of Ravnica,{4}{R}{W},"['White', 'Red']",Creature — Giant Soldier,,Uncommon
+452953,Swiftblade Vindicator,GRN,Guilds of Ravnica,{R}{W},"['White', 'Red']",Creature — Human Soldier,,Rare
+452954,"Tajic, Legion's Edge",GRN,Guilds of Ravnica,{1}{R}{W},"['White', 'Red']",Legendary Creature — Human Soldier,['Legendary'],Rare
+452955,Thief of Sanity,GRN,Guilds of Ravnica,{1}{U}{B},"['Blue', 'Black']",Creature — Specter,,Rare
+452956,Thought Erasure,GRN,Guilds of Ravnica,{U}{B},"['Blue', 'Black']",Sorcery,,Uncommon
+452957,Thousand-Year Storm,GRN,Guilds of Ravnica,{4}{U}{R},"['Blue', 'Red']",Enchantment,,Mythic Rare
+452958,Trostani Discordant,GRN,Guilds of Ravnica,{3}{G}{W},"['White', 'Green']",Legendary Creature — Dryad,['Legendary'],Mythic Rare
+452959,Truefire Captain,GRN,Guilds of Ravnica,{R}{R}{W}{W},"['White', 'Red']",Creature — Human Knight,,Uncommon
+452960,Undercity Uprising,GRN,Guilds of Ravnica,{2}{B}{G},"['Black', 'Green']",Sorcery,,Common
+452961,Underrealm Lich,GRN,Guilds of Ravnica,{3}{B}{G},"['Black', 'Green']",Creature — Zombie Elf Shaman,,Mythic Rare
+452962,Unmoored Ego,GRN,Guilds of Ravnica,{1}{U}{B},"['Blue', 'Black']",Sorcery,,Rare
+452963,"Vraska, Golgari Queen",GRN,Guilds of Ravnica,{2}{B}{G},"['Black', 'Green']",Legendary Planeswalker — Vraska,['Legendary'],Mythic Rare
+452964,Wee Dragonauts,GRN,Guilds of Ravnica,{1}{U}{R},"['Blue', 'Red']",Creature — Faerie Wizard,,Uncommon
+452965,Worldsoul Colossus,GRN,Guilds of Ravnica,{X}{G}{W},"['White', 'Green']",Creature — Elemental,,Uncommon
+452966,Fresh-Faced Recruit,GRN,Guilds of Ravnica,{1}{R/W},"['White', 'Red']",Creature — Human Soldier,,Common
+452967,Piston-Fist Cyclops,GRN,Guilds of Ravnica,{1}{U/R}{U/R},"['Blue', 'Red']",Creature — Cyclops,,Common
+452968,Pitiless Gorgon,GRN,Guilds of Ravnica,{1}{B/G}{B/G},"['Black', 'Green']",Creature — Gorgon,,Common
+452969,Vernadi Shieldmate,GRN,Guilds of Ravnica,{1}{G/W},"['White', 'Green']",Creature — Human Soldier,,Common
+452970,Whisper Agent,GRN,Guilds of Ravnica,{1}{U/B}{U/B},"['Blue', 'Black']",Creature — Human Rogue,,Common
+452971,Assure,GRN,Guilds of Ravnica,{G/W}{G/W},"['White', 'Green']",Instant,,Rare
+452971,Assemble,GRN,Guilds of Ravnica,{4}{G}{W},"['White', 'Green']",Instant,,Rare
+452972,Connive,GRN,Guilds of Ravnica,{2}{U/B}{U/B},"['Blue', 'Black']",Sorcery,,Rare
+452972,Concoct,GRN,Guilds of Ravnica,{3}{U}{B},"['Blue', 'Black']",Sorcery,,Rare
+452973,Discovery,GRN,Guilds of Ravnica,{1}{U/B},"['Blue', 'Black']",Sorcery,,Uncommon
+452973,Dispersal,GRN,Guilds of Ravnica,{3}{U}{B},"['Blue', 'Black']",Instant,,Uncommon
+452974,Expansion,GRN,Guilds of Ravnica,{U/R}{U/R},"['Blue', 'Red']",Instant,,Rare
+452974,Explosion,GRN,Guilds of Ravnica,{X}{U}{U}{R}{R},"['Blue', 'Red']",Instant,,Rare
+452975,Find,GRN,Guilds of Ravnica,{B/G}{B/G},"['Black', 'Green']",Sorcery,,Rare
+452975,Finality,GRN,Guilds of Ravnica,{4}{B}{G},"['Black', 'Green']",Sorcery,,Rare
+452976,Flower,GRN,Guilds of Ravnica,{G/W},"['White', 'Green']",Sorcery,,Uncommon
+452976,Flourish,GRN,Guilds of Ravnica,{4}{G}{W},"['White', 'Green']",Sorcery,,Uncommon
+452977,Integrity,GRN,Guilds of Ravnica,{R/W},"['White', 'Red']",Instant,,Uncommon
+452977,Intervention,GRN,Guilds of Ravnica,{2}{R}{W},"['White', 'Red']",Instant,,Uncommon
+452978,Invert,GRN,Guilds of Ravnica,{U/R},"['Blue', 'Red']",Instant,,Uncommon
+452978,Invent,GRN,Guilds of Ravnica,{4}{U}{R},"['Blue', 'Red']",Instant,,Uncommon
+452979,Response,GRN,Guilds of Ravnica,{R/W}{R/W},"['White', 'Red']",Instant,,Rare
+452979,Resurgence,GRN,Guilds of Ravnica,{3}{R}{W},"['White', 'Red']",Sorcery,,Rare
+452980,Status,GRN,Guilds of Ravnica,{B/G},"['Black', 'Green']",Instant,,Uncommon
+452980,Statue,GRN,Guilds of Ravnica,{2}{B}{G},"['Black', 'Green']",Instant,,Uncommon
+452981,Boros Locket,GRN,Guilds of Ravnica,{3},,Artifact,,Common
+452982,Chamber Sentry,GRN,Guilds of Ravnica,{X},,Artifact Creature — Construct,,Rare
+452983,Chromatic Lantern,GRN,Guilds of Ravnica,{3},,Artifact,,Rare
+452984,Dimir Locket,GRN,Guilds of Ravnica,{3},,Artifact,,Common
+452985,Gatekeeper Gargoyle,GRN,Guilds of Ravnica,{6},,Artifact Creature — Gargoyle,,Uncommon
+452986,Glaive of the Guildpact,GRN,Guilds of Ravnica,{2},,Artifact — Equipment,,Uncommon
+452987,Golgari Locket,GRN,Guilds of Ravnica,{3},,Artifact,,Common
+452988,Izzet Locket,GRN,Guilds of Ravnica,{3},,Artifact,,Common
+452989,Rampaging Monument,GRN,Guilds of Ravnica,{4},,Artifact Creature — Cleric,,Uncommon
+452990,Selesnya Locket,GRN,Guilds of Ravnica,{3},,Artifact,,Common
+452991,Silent Dart,GRN,Guilds of Ravnica,{1},,Artifact,,Uncommon
+452992,Wand of Vertebrae,GRN,Guilds of Ravnica,{1},,Artifact,,Uncommon
+452993,Boros Guildgate (a),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+452994,Boros Guildgate (b),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+452995,Dimir Guildgate (a),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+452996,Dimir Guildgate (b),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+452997,Gateway Plaza,GRN,Guilds of Ravnica,,,Land — Gate,,Common
+452998,Golgari Guildgate (a),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+452999,Golgari Guildgate (b),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+453000,Guildmages' Forum,GRN,Guilds of Ravnica,,,Land,,Rare
+453001,Izzet Guildgate (a),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+453002,Izzet Guildgate (b),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+453003,Overgrown Tomb,GRN,Guilds of Ravnica,,,Land — Swamp Forest,,Rare
+453004,Sacred Foundry,GRN,Guilds of Ravnica,,,Land — Mountain Plains,,Rare
+453005,Selesnya Guildgate (a),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+453006,Selesnya Guildgate (b),GRN,Guilds of Ravnica,,,Land — Gate,,Common
+453007,Steam Vents,GRN,Guilds of Ravnica,,,Land — Island Mountain,,Rare
+453008,Temple Garden,GRN,Guilds of Ravnica,,,Land — Forest Plains,,Rare
+453009,Watery Grave,GRN,Guilds of Ravnica,,,Land — Island Swamp,,Rare
+455600,Plains,GRN,Guilds of Ravnica,,,Basic Land — Plains,['Basic'],Basic Land
+455601,Island,GRN,Guilds of Ravnica,,,Basic Land — Island,['Basic'],Basic Land
+455602,Swamp,GRN,Guilds of Ravnica,,,Basic Land — Swamp,['Basic'],Basic Land
+455603,Mountain,GRN,Guilds of Ravnica,,,Basic Land — Mountain,['Basic'],Basic Land
+455604,Forest,GRN,Guilds of Ravnica,,,Basic Land — Forest,['Basic'],Basic Land
+455605,"Ral, Caller of Storms",GRN,Guilds of Ravnica,{4}{U}{R},"['Blue', 'Red']",Legendary Planeswalker — Ral,['Legendary'],Mythic Rare
+455606,Ral's Dispersal,GRN,Guilds of Ravnica,{3}{U}{U},['Blue'],Instant,,Rare
+455607,Precision Bolt,GRN,Guilds of Ravnica,{2}{R},['Red'],Sorcery,,Common
+455608,Ral's Staticaster,GRN,Guilds of Ravnica,{2}{U}{R},"['Blue', 'Red']",Creature — Viashino Wizard,,Uncommon
+455609,"Vraska, Regal Gorgon",GRN,Guilds of Ravnica,{5}{B}{G},"['Black', 'Green']",Legendary Planeswalker — Vraska,['Legendary'],Mythic Rare
+455610,Kraul Raider,GRN,Guilds of Ravnica,{2}{B},['Black'],Creature — Insect Warrior,,Common
+455611,Attendant of Vraska,GRN,Guilds of Ravnica,{1}{B}{G},"['Black', 'Green']",Creature — Zombie Soldier,,Uncommon
+455612,Vraska's Stoneglare,GRN,Guilds of Ravnica,{4}{B}{G},"['Black', 'Green']",Sorcery,,Rare
+455613,Impervious Greatwurm,GRN,Guilds of Ravnica,{7}{G}{G}{G},['Green'],Creature — Wurm,,Mythic Rare
